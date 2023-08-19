@@ -1,5 +1,5 @@
 .git
-AFFINE
+AFFiNE
 cef_user_data
 ChiTuBox
 Code - OSS
@@ -13,6 +13,7 @@ jgit
 kwalletrc
 mimeapps.list
 QtProject.conf
+Thunar
 Trolltech.conf
 xfce4
 yay
