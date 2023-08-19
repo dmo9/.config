@@ -1,0 +1,1938 @@
+2023/08/02-20:21:11:  main 556
+2023/08/02-20:21:11:  Software Version: CHITUBOX V1.9.5
+2023/08/02-20:21:11:  Operation system "arch unknown"
+2023/08/02-20:21:11:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-20:21:11:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/02-20:21:11:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:21:11:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:21:11:  
+ mqtt-server port :  25889
+2023/08/02-20:21:11:  
+ http-server port :  10648
+2023/08/02-20:21:11:  name: () 0
+2023/08/02-20:21:11:  current font: "Microsoft YaHei"
+2023/08/02-20:21:11:  default font: "Microsoft YaHei"
+2023/08/02-20:21:11:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:21:12:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-20:21:12:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:21:14:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-20:21:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:21:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:21:14:  ViewArea x = 0  y =74***w = 0
+2023/08/02-20:21:14:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:21:14:  =======Version: "460" valid: true
+2023/08/02-20:21:14:  ==bSupport_GL_EXT: false
+2023/08/02-20:21:14:             GPU vendor: NVIDIA Corporation
+2023/08/02-20:21:14:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-20:21:14:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-20:21:14:             core: true
+2023/08/02-20:21:14:             validVersion: "46"
+2023/08/02-20:21:14:             hasFrameBufferObjects: true
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:21:14:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:21:14:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:21:14:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:21:14:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:21:14:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/02-20:21:14:  ErrorStatus = 0
+2023/08/02-20:21:14:  errorInfo: "SSL handshake failed"
+2023/08/02-20:21:14:  ErrorStatus = 0
+2023/08/02-20:21:14:  FunctionSwitch::handleFail
+2023/08/02-20:21:14:  ErrorStatus = 0
+2023/08/02-20:21:14:  errorInfo: "SSL handshake failed"
+2023/08/02-20:22:11:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-20:22:11:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-20:22:11:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-20:22:49:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-20:22:49:  
+ control delete 
+2023/08/02-20:22:49:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:27:11:  main 556
+2023/08/02-20:36:35:  main 556
+2023/08/02-20:36:35:  Software Version: CHITUBOX V1.9.5
+2023/08/02-20:36:35:  Operation system "arch unknown"
+2023/08/02-20:36:35:  applicationFilePath(): "/usr/local/share/chitubox"
+2023/08/02-20:36:35:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:36:35:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:36:35:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:36:35:  
+ mqtt-server port :  44556
+2023/08/02-20:36:35:  
+ http-server port :  48740
+2023/08/02-20:36:36:  name: () 0
+2023/08/02-20:36:36:  current font: "Microsoft YaHei"
+2023/08/02-20:36:36:  default font: "Microsoft YaHei"
+2023/08/02-20:36:36:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:36:36:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-20:36:36:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:36:38:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-20:36:38:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:36:38:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:36:38:  ViewArea x = 0  y =74***w = 0
+2023/08/02-20:36:38:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:36:38:  =======Version: "460" valid: true
+2023/08/02-20:36:38:  ==bSupport_GL_EXT: false
+2023/08/02-20:36:38:             GPU vendor: NVIDIA Corporation
+2023/08/02-20:36:38:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-20:36:38:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-20:36:38:             core: true
+2023/08/02-20:36:38:             validVersion: "46"
+2023/08/02-20:36:38:             hasFrameBufferObjects: true
+2023/08/02-20:36:38:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:36:38:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:36:38:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:36:38:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:36:38:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:36:38:  ErrorStatus = 0
+2023/08/02-20:36:38:  FunctionSwitch::handleFail
+2023/08/02-20:36:38:  ErrorStatus = 0
+2023/08/02-20:36:38:  errorInfo: "SSL handshake failed"
+2023/08/02-20:36:39:  ErrorStatus = 0
+2023/08/02-20:36:39:  errorInfo: "SSL handshake failed"
+2023/08/02-20:38:28:  main 556
+2023/08/02-20:38:28:  Software Version: CHITUBOX V1.9.5
+2023/08/02-20:38:28:  Operation system "arch unknown"
+2023/08/02-20:38:28:  applicationFilePath(): "/usr/local/share/chitubox"
+2023/08/02-20:38:28:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:38:29:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:38:29:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:38:29:  
+ mqtt-server port :  15515
+2023/08/02-20:38:29:  
+ http-server port :  39459
+2023/08/02-20:38:29:  name: () 0
+2023/08/02-20:38:29:  current font: "Microsoft YaHei"
+2023/08/02-20:38:29:  default font: "Microsoft YaHei"
+2023/08/02-20:38:29:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:38:29:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-20:38:29:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:38:31:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-20:38:31:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:38:31:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:38:32:  ViewArea x = 0  y =74***w = 0
+2023/08/02-20:38:32:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:38:32:  =======Version: "460" valid: true
+2023/08/02-20:38:32:  ==bSupport_GL_EXT: false
+2023/08/02-20:38:32:             GPU vendor: NVIDIA Corporation
+2023/08/02-20:38:32:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-20:38:32:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-20:38:32:             core: true
+2023/08/02-20:38:32:             validVersion: "46"
+2023/08/02-20:38:32:             hasFrameBufferObjects: true
+2023/08/02-20:38:32:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:38:32:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:38:32:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:38:32:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:38:32:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:38:32:  ErrorStatus = 0
+2023/08/02-20:38:32:  FunctionSwitch::handleFail
+2023/08/02-20:38:32:  ErrorStatus = 0
+2023/08/02-20:38:32:  errorInfo: "SSL handshake failed"
+2023/08/02-20:38:32:  ErrorStatus = 0
+2023/08/02-20:38:32:  errorInfo: "SSL handshake failed"
+2023/08/02-20:38:48:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-20:38:48:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-20:38:48:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-20:38:48:  
+ control delete 
+2023/08/02-20:38:48:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:53:00:  main 556
+2023/08/02-20:53:00:  Software Version: CHITUBOX V1.9.5
+2023/08/02-20:53:00:  Operation system "arch unknown"
+2023/08/02-20:53:00:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-20:53:00:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:53:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:53:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:53:01:  
+ mqtt-server port :  5226
+2023/08/02-20:53:01:  
+ http-server port :  31338
+2023/08/02-20:53:01:  name: () 0
+2023/08/02-20:53:01:  current font: "Microsoft YaHei"
+2023/08/02-20:53:01:  default font: "Microsoft YaHei"
+2023/08/02-20:53:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:53:01:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-20:53:01:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:53:03:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-20:53:03:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-20:53:03:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-20:53:03:  ViewArea x = 0  y =74***w = 0
+2023/08/02-20:53:03:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-20:53:04:  =======Version: "460" valid: true
+2023/08/02-20:53:04:  ==bSupport_GL_EXT: false
+2023/08/02-20:53:04:             GPU vendor: NVIDIA Corporation
+2023/08/02-20:53:04:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-20:53:04:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-20:53:04:             core: true
+2023/08/02-20:53:04:             validVersion: "46"
+2023/08/02-20:53:04:             hasFrameBufferObjects: true
+2023/08/02-20:53:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:53:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:53:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:53:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-20:53:04:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/02-20:53:04:  ErrorStatus = 0
+2023/08/02-20:53:04:  FunctionSwitch::handleFail
+2023/08/02-20:53:04:  ErrorStatus = 0
+2023/08/02-20:53:04:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-20:53:04:  ErrorStatus = 0
+2023/08/02-20:53:04:  errorInfo: "SSL handshake failed"
+2023/08/02-20:53:19:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-20:53:19:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-20:53:19:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-20:53:19:  
+ control delete 
+2023/08/02-20:53:19:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:06:46:  main 556
+2023/08/02-21:06:46:  Software Version: CHITUBOX V1.9.5
+2023/08/02-21:06:46:  Operation system "arch unknown"
+2023/08/02-21:06:46:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-21:06:46:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/02-21:06:46:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:06:46:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:06:46:  
+ mqtt-server port :  40968
+2023/08/02-21:06:46:  
+ http-server port :  21460
+2023/08/02-21:06:46:  name: () 0
+2023/08/02-21:06:46:  current font: "Microsoft YaHei"
+2023/08/02-21:06:46:  default font: "Microsoft YaHei"
+2023/08/02-21:06:46:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:06:47:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-21:06:47:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:06:49:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-21:06:49:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:06:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:06:49:  ViewArea x = 0  y =74***w = 0
+2023/08/02-21:06:49:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:06:49:  =======Version: "460" valid: true
+2023/08/02-21:06:49:  ==bSupport_GL_EXT: false
+2023/08/02-21:06:49:             GPU vendor: NVIDIA Corporation
+2023/08/02-21:06:49:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-21:06:49:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-21:06:49:             core: true
+2023/08/02-21:06:49:             validVersion: "46"
+2023/08/02-21:06:49:             hasFrameBufferObjects: true
+2023/08/02-21:06:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:06:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:06:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:06:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:06:49:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:06:49:  ErrorStatus = 0
+2023/08/02-21:06:49:  FunctionSwitch::handleFail
+2023/08/02-21:06:49:  ErrorStatus = 0
+2023/08/02-21:06:49:  errorInfo: "SSL handshake failed"
+2023/08/02-21:06:49:  ErrorStatus = 0
+2023/08/02-21:06:49:  errorInfo: "SSL handshake failed"
+2023/08/02-21:06:54:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-21:06:54:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-21:06:54:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-21:06:55:  
+ control delete 
+2023/08/02-21:06:55:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:14:42:  main 556
+2023/08/02-21:14:42:  Software Version: CHITUBOX V1.9.5
+2023/08/02-21:14:42:  Operation system "arch unknown"
+2023/08/02-21:14:42:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-21:14:42:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:14:42:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:14:42:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:14:42:  
+ mqtt-server port :  61524
+2023/08/02-21:14:42:  
+ http-server port :  52876
+2023/08/02-21:14:42:  name: () 0
+2023/08/02-21:14:42:  current font: "Microsoft YaHei"
+2023/08/02-21:14:42:  default font: "Microsoft YaHei"
+2023/08/02-21:14:42:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:14:43:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-21:14:43:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:14:45:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-21:14:45:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:14:45:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:14:45:  ViewArea x = 0  y =74***w = 0
+2023/08/02-21:14:45:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:14:45:  =======Version: "460" valid: true
+2023/08/02-21:14:45:  ==bSupport_GL_EXT: false
+2023/08/02-21:14:45:             GPU vendor: NVIDIA Corporation
+2023/08/02-21:14:45:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-21:14:45:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-21:14:45:             core: true
+2023/08/02-21:14:45:             validVersion: "46"
+2023/08/02-21:14:45:             hasFrameBufferObjects: true
+2023/08/02-21:14:45:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:14:45:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:14:45:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:14:45:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:14:45:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/02-21:14:45:  ErrorStatus = 0
+2023/08/02-21:14:45:  FunctionSwitch::handleFail
+2023/08/02-21:14:45:  ErrorStatus = 0
+2023/08/02-21:14:45:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:14:45:  ErrorStatus = 0
+2023/08/02-21:14:45:  errorInfo: "SSL handshake failed"
+2023/08/02-21:15:42:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-21:15:42:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-21:15:42:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-21:16:34:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-21:16:34:  
+ control delete 
+2023/08/02-21:16:34:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:34:01:  main 556
+2023/08/02-21:34:01:  Software Version: CHITUBOX V1.9.5
+2023/08/02-21:34:01:  Operation system "arch unknown"
+2023/08/02-21:34:01:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-21:34:01:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/02-21:34:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:34:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:34:01:  
+ mqtt-server port :  13974
+2023/08/02-21:34:01:  
+ http-server port :  25923
+2023/08/02-21:34:01:  name: () 0
+2023/08/02-21:34:01:  current font: "Microsoft YaHei"
+2023/08/02-21:34:01:  default font: "Microsoft YaHei"
+2023/08/02-21:34:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:34:02:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-21:34:02:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:34:04:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-21:34:04:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-21:34:04:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-21:34:04:  ViewArea x = 0  y =74***w = 0
+2023/08/02-21:34:04:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-21:34:04:  =======Version: "460" valid: true
+2023/08/02-21:34:04:  ==bSupport_GL_EXT: false
+2023/08/02-21:34:04:             GPU vendor: NVIDIA Corporation
+2023/08/02-21:34:04:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-21:34:04:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-21:34:04:             core: true
+2023/08/02-21:34:04:             validVersion: "46"
+2023/08/02-21:34:04:             hasFrameBufferObjects: true
+2023/08/02-21:34:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:34:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:34:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:34:04:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-21:34:04:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/02-21:34:04:  ErrorStatus = 0
+2023/08/02-21:34:04:  errorInfo: "SSL handshake failed"
+2023/08/02-21:34:04:  ErrorStatus = 0
+2023/08/02-21:34:04:  FunctionSwitch::handleFail
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-21:34:04:  ErrorStatus = 0
+2023/08/02-21:34:04:  errorInfo: "SSL handshake failed"
+2023/08/02-21:35:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-21:35:01:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-21:35:01:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-21:36:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:01:44:  dropEvent url: "/home/dob/stls/empty.stl"
+2023/08/02-22:01:44:  ready to load: "/home/dob/stls/empty.stl"
+2023/08/02-22:01:49:  dropEvent url: "/home/dob/stls/empty.stl"
+2023/08/02-22:01:49:  ready to load: "/home/dob/stls/empty.stl"
+2023/08/02-22:01:53:  dropEvent url: "/home/dob/stls/empty.stl"
+2023/08/02-22:01:53:  ready to load: "/home/dob/stls/empty.stl"
+2023/08/02-22:03:25:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:03:25:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:05:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:07:35:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" ""
+2023/08/02-22:07:35:  defaultSuffix: "cbddlp"
+2023/08/02-22:07:35:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" ""
+2023/08/02-22:07:35:  defaultSuffix: "cbddlp"
+2023/08/02-22:08:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:08:07:  save File name  "/home/dob/CLionProjects/pico-motion/png_images/rook.zip"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-22:08:07:  ErrorStatus = 0
+2023/08/02-22:08:07:  errorInfo: "SSL handshake failed"
+2023/08/02-22:09:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-22:11:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:17:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:19:04:  main 556
+2023/08/02-22:19:04:  Software Version: CHITUBOX V1.9.5
+2023/08/02-22:19:04:  Operation system "arch unknown"
+2023/08/02-22:19:04:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/02-22:19:04:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/02-22:19:04:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-22:19:04:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-22:19:04:  
+ mqtt-server port :  23311
+2023/08/02-22:19:04:  
+ http-server port :  50661
+2023/08/02-22:19:05:  name: () 0
+2023/08/02-22:19:05:  current font: "Microsoft YaHei"
+2023/08/02-22:19:05:  default font: "Microsoft YaHei"
+2023/08/02-22:19:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-22:19:05:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/02-22:19:05:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-22:19:07:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/02-22:19:07:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/02-22:19:07:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/02-22:19:07:  ViewArea x = 0  y =74***w = 0
+2023/08/02-22:19:07:  loadFileFromArgument 
+2023/08/02-22:19:07:  id  64587
+2023/08/02-22:19:07:  id  64587
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/02-22:19:07:  =======Version: "460" valid: true
+2023/08/02-22:19:07:  ==bSupport_GL_EXT: false
+2023/08/02-22:19:07:             GPU vendor: NVIDIA Corporation
+2023/08/02-22:19:07:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/02-22:19:07:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/02-22:19:07:             core: true
+2023/08/02-22:19:07:             validVersion: "46"
+2023/08/02-22:19:07:             hasFrameBufferObjects: true
+2023/08/02-22:19:07:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-22:19:07:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-22:19:07:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-22:19:07:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/02-22:19:07:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/02-22:19:07:  ErrorStatus = 0
+2023/08/02-22:19:07:  errorInfo: "SSL handshake failed"
+2023/08/02-22:19:07:  ErrorStatus = 0
+2023/08/02-22:19:07:  FunctionSwitch::handleFail
+2023/08/02-22:19:07:  ErrorStatus = 0
+2023/08/02-22:19:07:  errorInfo: "SSL handshake failed"
+2023/08/02-22:19:09:  ready to load: "/home/dob/.config/ChiTuBox/__autosave__70432.chitubox"
+2023/08/02-22:20:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:20:04:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/02-22:20:04:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/02-22:27:25:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:25:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:27:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:27:  ready to load: "/home/dob/stls/Rook.stl"
+Warning: QObject::connect: Cannot queue arguments of type 'op_type_t'
+(Make sure 'op_type_t' is registered using qRegisterMetaType().)    0  
+2023/08/02-22:27:29:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:29:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:31:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:31:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:32:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:32:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:34:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:34:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/02-22:27:55:  bSelectAll
+2023/08/02-22:38:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/02-22:46:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:00:57:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:05:09:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:05:09:  
+ control delete 
+2023/08/03-07:05:09:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:05:13:  main 556
+2023/08/03-07:05:14:  Software Version: CHITUBOX V1.9.5
+2023/08/03-07:05:14:  Operation system "arch unknown"
+2023/08/03-07:05:14:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-07:05:14:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/03-07:05:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:05:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:14:  
+ mqtt-server port :  44286
+2023/08/03-07:05:14:  
+ http-server port :  7979
+2023/08/03-07:05:14:  name: () 0
+2023/08/03-07:05:14:  current font: "Microsoft YaHei"
+2023/08/03-07:05:14:  default font: "Microsoft YaHei"
+2023/08/03-07:05:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:14:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-07:05:14:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:05:16:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:05:16:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:05:16:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:17:  ViewArea x = 0  y =74***w = 0
+2023/08/03-07:05:17:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:05:17:  =======Version: "460" valid: true
+2023/08/03-07:05:17:  ==bSupport_GL_EXT: false
+2023/08/03-07:05:17:             GPU vendor: NVIDIA Corporation
+2023/08/03-07:05:17:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-07:05:17:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-07:05:17:             core: true
+2023/08/03-07:05:17:             validVersion: "46"
+2023/08/03-07:05:17:             hasFrameBufferObjects: true
+2023/08/03-07:05:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:17:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:05:17:  ErrorStatus = 0
+2023/08/03-07:05:17:  FunctionSwitch::handleFail
+2023/08/03-07:05:17:  ErrorStatus = 0
+2023/08/03-07:05:17:  errorInfo: "SSL handshake failed"
+2023/08/03-07:05:17:  ErrorStatus = 0
+2023/08/03-07:05:17:  errorInfo: "SSL handshake failed"
+2023/08/03-07:05:32:  main 556
+2023/08/03-07:05:32:  Software Version: CHITUBOX V1.9.5
+2023/08/03-07:05:32:  Operation system "arch unknown"
+2023/08/03-07:05:32:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-07:05:32:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/03-07:05:33:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:05:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:33:  
+ mqtt-server port :  44857
+2023/08/03-07:05:33:  
+ http-server port :  27840
+2023/08/03-07:05:33:  name: () 0
+2023/08/03-07:05:33:  current font: "Microsoft YaHei"
+2023/08/03-07:05:33:  default font: "Microsoft YaHei"
+2023/08/03-07:05:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:33:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-07:05:33:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:05:35:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:05:35:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:05:35:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:05:35:  ViewArea x = 0  y =74***w = 0
+2023/08/03-07:05:35:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:05:35:  =======Version: "460" valid: true
+2023/08/03-07:05:35:  ==bSupport_GL_EXT: false
+2023/08/03-07:05:35:             GPU vendor: NVIDIA Corporation
+2023/08/03-07:05:35:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-07:05:35:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-07:05:35:             core: true
+2023/08/03-07:05:35:             validVersion: "46"
+2023/08/03-07:05:35:             hasFrameBufferObjects: true
+2023/08/03-07:05:35:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:35:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:35:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:35:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:05:35:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/03-07:05:35:  ErrorStatus = 0
+2023/08/03-07:05:35:  FunctionSwitch::handleFail
+2023/08/03-07:05:35:  ErrorStatus = 0
+2023/08/03-07:05:35:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:05:35:  ErrorStatus = 0
+2023/08/03-07:05:35:  errorInfo: "SSL handshake failed"
+2023/08/03-07:12:30:  main 556
+2023/08/03-07:12:30:  Software Version: CHITUBOX V1.9.5
+2023/08/03-07:12:30:  Operation system "arch unknown"
+2023/08/03-07:12:30:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-07:12:30:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:12:30:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:12:30:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:12:30:  
+ mqtt-server port :  63881
+2023/08/03-07:12:30:  
+ http-server port :  22408
+2023/08/03-07:12:31:  name: () 0
+2023/08/03-07:12:31:  current font: "Microsoft YaHei"
+2023/08/03-07:12:31:  default font: "Microsoft YaHei"
+2023/08/03-07:12:31:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:12:31:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-07:12:31:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:12:33:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:12:33:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:12:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:12:33:  ViewArea x = 0  y =74***w = 0
+2023/08/03-07:12:33:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:12:33:  =======Version: "460" valid: true
+2023/08/03-07:12:33:  ==bSupport_GL_EXT: false
+2023/08/03-07:12:33:             GPU vendor: NVIDIA Corporation
+2023/08/03-07:12:33:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-07:12:33:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-07:12:33:             core: true
+2023/08/03-07:12:33:             validVersion: "46"
+2023/08/03-07:12:33:             hasFrameBufferObjects: true
+2023/08/03-07:12:33:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:12:33:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:12:33:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:12:33:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:12:33:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/03-07:12:33:  ErrorStatus = 0
+2023/08/03-07:12:33:  FunctionSwitch::handleFail
+2023/08/03-07:12:33:  ErrorStatus = 0
+2023/08/03-07:12:33:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:12:34:  ErrorStatus = 0
+2023/08/03-07:12:34:  errorInfo: "SSL handshake failed"
+2023/08/03-07:12:45:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:12:45:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/03-07:12:55:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:12:55:  ready to load: "/home/dob/stls/Rook.stl"
+Warning: QObject::connect: Cannot queue arguments of type 'op_type_t'
+(Make sure 'op_type_t' is registered using qRegisterMetaType().)    0  
+2023/08/03-07:12:58:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:12:58:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:00:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:00:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:02:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:02:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:04:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:04:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/03-07:13:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:13:30:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/03-07:13:30:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/03-07:14:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:17:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:17:48:  bSelectAll
+2023/08/03-07:18:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:19:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: QImage::pixel: coordinate (212,-6) out of range    0  
+Warning: QImage::pixel: coordinate (216,-12) out of range    0  
+Warning: QImage::pixel: coordinate (223,-17) out of range    0  
+Warning: QImage::pixel: coordinate (226,-20) out of range    0  
+Warning: QImage::pixel: coordinate (227,-21) out of range    0  
+Warning: QImage::pixel: coordinate (230,-22) out of range    0  
+Warning: QImage::pixel: coordinate (232,-23) out of range    0  
+Warning: QImage::pixel: coordinate (234,-24) out of range    0  
+Warning: QImage::pixel: coordinate (236,-25) out of range    0  
+Warning: QImage::pixel: coordinate (239,-26) out of range    0  
+Warning: QImage::pixel: coordinate (241,-26) out of range    0  
+Warning: QImage::pixel: coordinate (243,-28) out of range    0  
+Warning: QImage::pixel: coordinate (244,-28) out of range    0  
+Warning: QImage::pixel: coordinate (244,-28) out of range    0  
+Warning: QImage::pixel: coordinate (244,-27) out of range    0  
+Warning: QImage::pixel: coordinate (242,-25) out of range    0  
+Warning: QImage::pixel: coordinate (235,-14) out of range    0  
+Warning: QImage::pixel: coordinate (229,-7) out of range    0  
+2023/08/03-07:21:20:  arrangeBtn
+2023/08/03-07:21:28:  copyBtn
+2023/08/03-07:21:34:  arrangeBtn
+2023/08/03-07:22:00:  bSelectAll
+2023/08/03-07:22:02:  arrangeBtn
+2023/08/03-07:22:23:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/03-07:22:23:  defaultSuffix: "zip"
+2023/08/03-07:22:23:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/03-07:22:23:  defaultSuffix: "zip"
+2023/08/03-07:22:26:  save File name  "/home/dob/stls/_Rook.zip"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:22:27:  ErrorStatus = 0
+2023/08/03-07:22:27:  errorInfo: "SSL handshake failed"
+2023/08/03-07:22:30:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:23:25:  add job lonelyIsland 
+2023/08/03-07:23:28:  detect island use time :  3635
+2023/08/03-07:23:42:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:23:42:  
+ control delete 
+2023/08/03-07:23:42:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:23:46:  main 556
+2023/08/03-07:23:46:  Software Version: CHITUBOX V1.9.5
+2023/08/03-07:23:46:  Operation system "arch unknown"
+2023/08/03-07:23:46:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-07:23:46:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/03-07:23:46:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:23:46:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:23:46:  
+ mqtt-server port :  55689
+2023/08/03-07:23:46:  
+ http-server port :  40760
+2023/08/03-07:23:47:  name: () 0
+2023/08/03-07:23:47:  current font: "Microsoft YaHei"
+2023/08/03-07:23:47:  default font: "Microsoft YaHei"
+2023/08/03-07:23:47:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:23:47:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-07:23:47:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:23:49:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:23:49:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:23:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:23:49:  ViewArea x = 0  y =74***w = 0
+2023/08/03-07:23:49:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:23:49:  =======Version: "460" valid: true
+2023/08/03-07:23:49:  ==bSupport_GL_EXT: false
+2023/08/03-07:23:49:             GPU vendor: NVIDIA Corporation
+2023/08/03-07:23:49:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-07:23:49:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-07:23:49:             core: true
+2023/08/03-07:23:49:             validVersion: "46"
+2023/08/03-07:23:49:             hasFrameBufferObjects: true
+2023/08/03-07:23:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:23:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:23:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:23:49:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:23:49:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:23:49:  ErrorStatus = 0
+2023/08/03-07:23:49:  FunctionSwitch::handleFail
+2023/08/03-07:23:49:  ErrorStatus = 0
+2023/08/03-07:23:49:  errorInfo: "SSL handshake failed"
+2023/08/03-07:23:49:  ErrorStatus = 0
+2023/08/03-07:23:49:  errorInfo: "SSL handshake failed"
+2023/08/03-07:24:02:  main 556
+2023/08/03-07:24:02:  Software Version: CHITUBOX V1.9.5
+2023/08/03-07:24:02:  Operation system "arch unknown"
+2023/08/03-07:24:02:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-07:24:02:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:24:03:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:24:03:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:24:03:  
+ mqtt-server port :  11040
+2023/08/03-07:24:03:  
+ http-server port :  18616
+2023/08/03-07:24:03:  name: () 0
+2023/08/03-07:24:03:  current font: "Microsoft YaHei"
+2023/08/03-07:24:03:  default font: "Microsoft YaHei"
+2023/08/03-07:24:03:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:24:03:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-07:24:03:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:24:05:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:24:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:24:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-07:24:05:  ViewArea x = 0  y =74***w = 0
+2023/08/03-07:24:05:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:24:05:  =======Version: "460" valid: true
+2023/08/03-07:24:05:  ==bSupport_GL_EXT: false
+2023/08/03-07:24:05:             GPU vendor: NVIDIA Corporation
+2023/08/03-07:24:05:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-07:24:05:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-07:24:05:             core: true
+2023/08/03-07:24:05:             validVersion: "46"
+2023/08/03-07:24:05:             hasFrameBufferObjects: true
+2023/08/03-07:24:05:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:24:05:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:24:05:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:24:05:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-07:24:05:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-07:24:05:  ErrorStatus = 0
+2023/08/03-07:24:05:  FunctionSwitch::handleFail
+2023/08/03-07:24:05:  ErrorStatus = 0
+2023/08/03-07:24:05:  errorInfo: "SSL handshake failed"
+2023/08/03-07:24:05:  ErrorStatus = 0
+2023/08/03-07:24:05:  errorInfo: "SSL handshake failed"
+2023/08/03-07:25:02:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:25:02:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/03-07:25:02:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/03-07:47:36:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:47:36:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:47:36:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:48:02:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:48:05:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:48:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:48:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:48:05:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:48:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:48:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:48:12:  add new machine: "Zortrax Inkspire" "Zortrax Inkspire"
+2023/08/03-07:48:12:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:48:12:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:48:12:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/03-07:48:15:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:48:15:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:48:15:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-07:48:21:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-07:48:21:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-07:48:21:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/03-07:49:02:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/03-07:49:02:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/03-07:54:13:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-07:54:13:  
+ control delete 
+2023/08/03-07:54:13:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-dob'    0  
+2023/08/03-23:35:58:  main 556
+2023/08/03-23:35:58:  Software Version: CHITUBOX V1.9.5
+2023/08/03-23:35:58:  Operation system "arch unknown"
+2023/08/03-23:35:58:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/03-23:35:58:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/03-23:35:59:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-23:35:59:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-23:35:59:  
+ mqtt-server port :  47310
+2023/08/03-23:35:59:  
+ http-server port :  13796
+2023/08/03-23:35:59:  name: () 0
+2023/08/03-23:35:59:  current font: "Microsoft YaHei"
+2023/08/03-23:35:59:  default font: "Nimbus Sans"
+2023/08/03-23:35:59:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-23:35:59:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/03-23:35:59:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/03-23:36:01:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/03-23:36:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/03-23:36:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/03-23:36:02:  ViewArea x = 0  y =74***w = 0
+2023/08/03-23:36:02:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/03-23:36:02:  =======Version: "460" valid: true
+2023/08/03-23:36:02:  ==bSupport_GL_EXT: false
+2023/08/03-23:36:02:             GPU vendor: NVIDIA Corporation
+2023/08/03-23:36:02:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/03-23:36:02:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/03-23:36:02:             core: true
+2023/08/03-23:36:02:             validVersion: "46"
+2023/08/03-23:36:02:             hasFrameBufferObjects: true
+2023/08/03-23:36:02:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-23:36:02:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-23:36:02:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-23:36:02:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/03-23:36:02:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-23:36:04:  ErrorStatus = 0
+2023/08/03-23:36:04:  errorInfo: "SSL handshake failed"
+2023/08/03-23:36:04:  ErrorStatus = 0
+2023/08/03-23:36:04:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/03-23:36:04:  ErrorStatus = 0
+2023/08/03-23:36:04:  FunctionSwitch::handleFail
+2023/08/03-23:46:03:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/03-23:46:03:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/03-23:46:03:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/03-23:46:03:  
+ control delete 
+2023/08/03-23:46:03:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/07-22:18:14:  main 556
+2023/08/07-22:18:14:  Software Version: CHITUBOX V1.9.5
+2023/08/07-22:18:14:  Operation system "arch unknown"
+2023/08/07-22:18:14:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/07-22:18:14:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/07-22:18:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/07-22:18:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:18:14:  
+ mqtt-server port :  47687
+2023/08/07-22:18:14:  
+ http-server port :  24091
+2023/08/07-22:18:14:  name: () 0
+2023/08/07-22:18:14:  current font: "Microsoft YaHei"
+2023/08/07-22:18:14:  default font: "Nimbus Sans"
+2023/08/07-22:18:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:18:15:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/07-22:18:15:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/07-22:18:17:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/07-22:18:17:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/07-22:18:17:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:18:17:  ViewArea x = 0  y =74***w = 0
+2023/08/07-22:18:17:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/07-22:18:17:  =======Version: "460" valid: true
+2023/08/07-22:18:17:  ==bSupport_GL_EXT: false
+2023/08/07-22:18:17:             GPU vendor: NVIDIA Corporation
+2023/08/07-22:18:17:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/07-22:18:17:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/07-22:18:17:             core: true
+2023/08/07-22:18:17:             validVersion: "46"
+2023/08/07-22:18:17:             hasFrameBufferObjects: true
+2023/08/07-22:18:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:18:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:18:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:18:17:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:18:17:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/07-22:18:22:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/07-22:18:22:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/07-22:18:22:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/07-22:18:29:  
+ control delete 
+2023/08/07-22:18:29:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/07-22:40:07:  main 556
+2023/08/07-22:40:07:  Software Version: CHITUBOX V1.9.5
+2023/08/07-22:40:07:  Operation system "arch unknown"
+2023/08/07-22:40:07:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/07-22:40:07:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/07-22:40:08:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/07-22:40:08:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:40:08:  
+ mqtt-server port :  23799
+2023/08/07-22:40:08:  
+ http-server port :  50815
+2023/08/07-22:40:08:  name: () 0
+2023/08/07-22:40:08:  current font: "Microsoft YaHei"
+2023/08/07-22:40:08:  default font: "Nimbus Sans"
+2023/08/07-22:40:08:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:40:08:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/07-22:40:08:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/07-22:40:10:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/07-22:40:10:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/07-22:40:10:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/07-22:40:10:  ViewArea x = 0  y =74***w = 0
+2023/08/07-22:40:10:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/07-22:40:11:  =======Version: "460" valid: true
+2023/08/07-22:40:11:  ==bSupport_GL_EXT: false
+2023/08/07-22:40:11:             GPU vendor: NVIDIA Corporation
+2023/08/07-22:40:11:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/07-22:40:11:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/07-22:40:11:             core: true
+2023/08/07-22:40:11:             validVersion: "46"
+2023/08/07-22:40:11:             hasFrameBufferObjects: true
+2023/08/07-22:40:11:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:40:11:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:40:11:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:40:11:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/07-22:40:11:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/07-22:40:17:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/07-22:40:17:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/07-22:40:17:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/07-22:40:23:  
+ control delete 
+2023/08/07-22:40:23:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-01:03:48:  main 556
+2023/08/08-01:03:48:  Software Version: CHITUBOX V1.9.5
+2023/08/08-01:03:48:  Operation system "arch unknown"
+2023/08/08-01:03:48:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-01:03:48:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/08-01:03:49:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-01:03:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-01:03:49:  
+ mqtt-server port :  4699
+2023/08/08-01:03:49:  
+ http-server port :  56689
+2023/08/08-01:03:49:  name: () 0
+2023/08/08-01:03:49:  current font: "Microsoft YaHei"
+2023/08/08-01:03:49:  default font: "Nimbus Sans"
+2023/08/08-01:03:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-01:03:49:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-01:03:49:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-01:03:51:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-01:03:51:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-01:03:51:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-01:03:51:  ViewArea x = 0  y =74***w = 0
+2023/08/08-01:03:51:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-01:03:52:  =======Version: "460" valid: true
+2023/08/08-01:03:52:  ==bSupport_GL_EXT: false
+2023/08/08-01:03:52:             GPU vendor: NVIDIA Corporation
+2023/08/08-01:03:52:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-01:03:52:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-01:03:52:             core: true
+2023/08/08-01:03:52:             validVersion: "46"
+2023/08/08-01:03:52:             hasFrameBufferObjects: true
+2023/08/08-01:03:52:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-01:03:52:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-01:03:52:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-01:03:52:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-01:03:52:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-01:03:52:  ErrorStatus = 0
+2023/08/08-01:03:52:  FunctionSwitch::handleFail
+2023/08/08-01:03:52:  ErrorStatus = 0
+2023/08/08-01:03:52:  errorInfo: "SSL handshake failed"
+2023/08/08-01:03:52:  ErrorStatus = 0
+2023/08/08-01:03:52:  errorInfo: "SSL handshake failed"
+2023/08/08-01:04:49:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-01:04:49:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/08-01:04:49:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/08-01:04:49:  dropEvent url: "/home/dob/stls/Rook.stl"
+2023/08/08-01:04:49:  ready to load: "/home/dob/stls/Rook.stl"
+2023/08/08-14:40:51:  main 556
+2023/08/08-14:40:51:  Software Version: CHITUBOX V1.9.5
+2023/08/08-14:40:51:  Operation system "arch unknown"
+2023/08/08-14:40:51:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-14:40:51:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/08-14:40:52:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:40:52:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-14:40:52:  
+ mqtt-server port :  51932
+2023/08/08-14:40:52:  
+ http-server port :  54555
+2023/08/08-14:40:52:  name: () 0
+2023/08/08-14:40:52:  current font: "Microsoft YaHei"
+2023/08/08-14:40:52:  default font: "Nimbus Sans"
+2023/08/08-14:40:52:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-14:40:52:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-14:40:52:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/08-14:40:54:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:40:54:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:40:54:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-14:40:54:  ViewArea x = 0  y =74***w = 0
+2023/08/08-14:40:54:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-14:40:55:  =======Version: "460" valid: true
+2023/08/08-14:40:55:  ==bSupport_GL_EXT: false
+2023/08/08-14:40:55:             GPU vendor: NVIDIA Corporation
+2023/08/08-14:40:55:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-14:40:55:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-14:40:55:             core: true
+2023/08/08-14:40:55:             validVersion: "46"
+2023/08/08-14:40:55:             hasFrameBufferObjects: true
+2023/08/08-14:40:55:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-14:40:55:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-14:40:55:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-14:40:55:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-14:40:55:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/08-14:40:55:  ErrorStatus = 0
+2023/08/08-14:40:55:  errorInfo: "SSL handshake failed"
+2023/08/08-14:40:55:  ErrorStatus = 0
+2023/08/08-14:40:55:  FunctionSwitch::handleFail
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-14:40:55:  ErrorStatus = 0
+2023/08/08-14:40:55:  errorInfo: "SSL handshake failed"
+2023/08/08-14:41:13:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:13:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:13:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:41:14:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-14:41:14:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:41:40:  add new machine: "AnyCubic Photon D2" "AnyCubic Photon D2"
+2023/08/08-14:41:40:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:40:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:40:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:41:49:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:49:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-14:41:50:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:50:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:50:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:41:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-14:41:51:  save to file: "/home/dob/.config/ChiTuBox/machine/0.cfg"
+2023/08/08-14:41:51:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/0.cfg"
+2023/08/08-14:41:58:  add new machine: "AnyCubic Photon Ultra" "AnyCubic Photon Ultra"
+2023/08/08-14:41:59:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:41:59:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:41:59:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:42:01:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:42:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:42:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:42:01:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:42:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:42:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-14:42:02:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-14:42:02:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-14:42:02:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-14:42:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-14:42:51:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-14:42:51:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-14:46:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-15:12:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-15:14:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-15:18:51:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-16:44:28:  
+ control delete 
+2023/08/08-16:44:28:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-17:31:04:  main 556
+2023/08/08-17:31:05:  Software Version: CHITUBOX V1.9.5
+2023/08/08-17:31:05:  Operation system "arch unknown"
+2023/08/08-17:31:05:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-17:31:05:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/08-17:31:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-17:31:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-17:31:05:  
+ mqtt-server port :  49508
+2023/08/08-17:31:05:  
+ http-server port :  57459
+2023/08/08-17:31:05:  name: () 0
+2023/08/08-17:31:05:  current font: "Microsoft YaHei"
+2023/08/08-17:31:05:  default font: "Nimbus Sans"
+2023/08/08-17:31:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-17:31:06:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-17:31:06:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/08-17:31:08:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-17:31:08:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-17:31:08:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-17:31:08:  ViewArea x = 0  y =74***w = 0
+2023/08/08-17:31:08:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-17:31:08:  =======Version: "460" valid: true
+2023/08/08-17:31:08:  ==bSupport_GL_EXT: false
+2023/08/08-17:31:08:             GPU vendor: NVIDIA Corporation
+2023/08/08-17:31:08:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-17:31:08:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-17:31:08:             core: true
+2023/08/08-17:31:08:             validVersion: "46"
+2023/08/08-17:31:08:             hasFrameBufferObjects: true
+2023/08/08-17:31:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-17:31:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-17:31:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-17:31:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-17:31:08:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/08-17:31:08:  ErrorStatus = 0
+2023/08/08-17:31:08:  errorInfo: "SSL handshake failed"
+2023/08/08-17:31:08:  ErrorStatus = 0
+2023/08/08-17:31:08:  FunctionSwitch::handleFail
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-17:31:08:  ErrorStatus = 0
+2023/08/08-17:31:08:  errorInfo: "SSL handshake failed"
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-17:32:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-17:32:05:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-17:32:05:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-17:33:04:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-17:33:05:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-17:34:04:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-17:34:05:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-17:35:04:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-17:35:05:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-17:36:04:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-17:36:05:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-17:39:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-17:40:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-17:41:04:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-17:42:47:  
+ control delete 
+2023/08/08-17:42:47:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-18:13:44:  main 556
+2023/08/08-18:13:44:  Software Version: CHITUBOX V1.9.5
+2023/08/08-18:13:44:  Operation system "arch unknown"
+2023/08/08-18:13:44:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-18:13:44:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/08-18:13:44:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-18:13:44:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-18:13:44:  
+ mqtt-server port :  37469
+2023/08/08-18:13:44:  
+ http-server port :  54455
+2023/08/08-18:13:44:  name: () 0
+2023/08/08-18:13:44:  current font: "Microsoft YaHei"
+2023/08/08-18:13:44:  default font: "Nimbus Sans"
+2023/08/08-18:13:44:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-18:13:45:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-18:13:45:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-18:13:47:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-18:13:47:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-18:13:47:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-18:13:47:  ViewArea x = 0  y =74***w = 0
+2023/08/08-18:13:47:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-18:13:47:  =======Version: "460" valid: true
+2023/08/08-18:13:47:  ==bSupport_GL_EXT: false
+2023/08/08-18:13:47:             GPU vendor: NVIDIA Corporation
+2023/08/08-18:13:47:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-18:13:47:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-18:13:47:             core: true
+2023/08/08-18:13:47:             validVersion: "46"
+2023/08/08-18:13:47:             hasFrameBufferObjects: true
+2023/08/08-18:13:47:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-18:13:47:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-18:13:47:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-18:13:47:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-18:13:47:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-18:13:47:  ErrorStatus = 0
+2023/08/08-18:13:47:  errorInfo: "SSL handshake failed"
+2023/08/08-18:13:47:  ErrorStatus = 0
+2023/08/08-18:13:47:  FunctionSwitch::handleFail
+2023/08/08-18:13:47:  ErrorStatus = 0
+2023/08/08-18:13:47:  errorInfo: "SSL handshake failed"
+2023/08/08-18:14:43:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-18:14:43:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-18:14:44:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-18:15:43:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-19:56:05:  main 556
+2023/08/08-19:56:05:  Software Version: CHITUBOX V1.9.5
+2023/08/08-19:56:05:  Operation system "arch unknown"
+2023/08/08-19:56:05:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-19:56:05:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/08-19:56:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:56:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:05:  
+ mqtt-server port :  35593
+2023/08/08-19:56:05:  
+ http-server port :  34518
+2023/08/08-19:56:06:  name: () 0
+2023/08/08-19:56:06:  current font: "Microsoft YaHei"
+2023/08/08-19:56:06:  default font: "Nimbus Sans"
+2023/08/08-19:56:06:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:06:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-19:56:06:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-19:56:08:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:56:08:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:56:08:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:08:  ViewArea x = 0  y =74***w = 0
+2023/08/08-19:56:08:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:56:08:  =======Version: "460" valid: true
+2023/08/08-19:56:08:  ==bSupport_GL_EXT: false
+2023/08/08-19:56:08:             GPU vendor: NVIDIA Corporation
+2023/08/08-19:56:08:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-19:56:08:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-19:56:08:             core: true
+2023/08/08-19:56:08:             validVersion: "46"
+2023/08/08-19:56:08:             hasFrameBufferObjects: true
+2023/08/08-19:56:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:08:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:08:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-19:56:08:  ErrorStatus = 0
+2023/08/08-19:56:08:  FunctionSwitch::handleFail
+2023/08/08-19:56:08:  ErrorStatus = 0
+2023/08/08-19:56:08:  errorInfo: "SSL handshake failed"
+2023/08/08-19:56:09:  ErrorStatus = 0
+2023/08/08-19:56:09:  errorInfo: "SSL handshake failed"
+2023/08/08-19:56:16:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-19:56:16:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-19:56:16:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-19:56:16:  
+ control delete 
+2023/08/08-19:56:16:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:56:25:  main 556
+2023/08/08-19:56:25:  Software Version: CHITUBOX V1.9.5
+2023/08/08-19:56:25:  Operation system "arch unknown"
+2023/08/08-19:56:25:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/08-19:56:25:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-19:56:26:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:56:26:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:26:  
+ mqtt-server port :  23687
+2023/08/08-19:56:26:  
+ http-server port :  20742
+2023/08/08-19:56:26:  name: () 0
+2023/08/08-19:56:26:  current font: "Microsoft YaHei"
+2023/08/08-19:56:26:  default font: "Nimbus Sans"
+2023/08/08-19:56:26:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:26:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/08-19:56:26:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-19:56:28:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:56:28:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:56:28:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:56:28:  ViewArea x = 0  y =74***w = 0
+2023/08/08-19:56:28:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:56:28:  =======Version: "460" valid: true
+2023/08/08-19:56:28:  ==bSupport_GL_EXT: false
+2023/08/08-19:56:28:             GPU vendor: NVIDIA Corporation
+2023/08/08-19:56:28:             GPU version: 4.6.0 NVIDIA 535.86.05
+2023/08/08-19:56:28:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/08-19:56:28:             core: true
+2023/08/08-19:56:28:             validVersion: "46"
+2023/08/08-19:56:28:             hasFrameBufferObjects: true
+2023/08/08-19:56:28:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:28:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:28:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:28:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/08-19:56:28:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-19:56:28:  ErrorStatus = 0
+2023/08/08-19:56:28:  FunctionSwitch::handleFail
+2023/08/08-19:56:28:  ErrorStatus = 0
+2023/08/08-19:56:28:  errorInfo: "SSL handshake failed"
+2023/08/08-19:56:28:  ErrorStatus = 0
+2023/08/08-19:56:28:  errorInfo: "SSL handshake failed"
+2023/08/08-19:56:48:  dropEvent url: "/home/dob/workspaces/3d_printer/stls/Rook.stl"
+2023/08/08-19:56:48:  ready to load: "/home/dob/workspaces/3d_printer/stls/Rook.stl"
+2023/08/08-19:56:55:  copyBtn
+2023/08/08-19:56:56:  copyBtn
+2023/08/08-19:56:57:  copyBtn
+2023/08/08-19:56:57:  copyBtn
+2023/08/08-19:56:58:  copyBtn
+2023/08/08-19:56:59:  copyBtn
+2023/08/08-19:57:00:  copyBtn
+2023/08/08-19:57:02:  bSelectAll
+2023/08/08-19:57:07:  arrangeBtn
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:57:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-19:57:25:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-19:57:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-19:57:36:  suffix: "AnyCubic_plugin(*.dlp)" "zip"
+2023/08/08-19:57:36:  defaultSuffix: "dlp"
+2023/08/08-19:57:36:  suffix: "AnyCubic_plugin(*.dlp)" "zip"
+2023/08/08-19:57:36:  defaultSuffix: "dlp"
+2023/08/08-19:57:49:  save File name  ""
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:58:01:  add new machine: "AnyCubic Photon" "AnyCubic Photon"
+2023/08/08-19:58:01:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:01:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:01:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:04:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:04:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:04:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:05:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:05:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:05:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:06:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:06:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:06:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:07:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:07:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:07:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:08:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:08:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:08:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:16:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:16:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:16:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:18:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:18:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:18:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:58:18:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:18:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:18:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-19:58:25:  save to file: "/home/dob/.config/ChiTuBox/machine/1.cfg"
+2023/08/08-19:58:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/1.cfg"
+2023/08/08-19:58:31:  suffix: "AnyCubic_plugin(*.dlp)" "zip"
+2023/08/08-19:58:31:  defaultSuffix: "dlp"
+2023/08/08-19:58:31:  suffix: "AnyCubic_plugin(*.dlp)" "zip"
+2023/08/08-19:58:31:  defaultSuffix: "dlp"
+2023/08/08-19:58:32:  save File name  ""
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:58:44:  add new machine: "Default" "Default"
+2023/08/08-19:58:44:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:44:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:44:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:44:  add new machine: "Default" "Default"
+2023/08/08-19:58:44:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:44:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:44:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:58:46:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:46:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:46:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-19:58:46:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:46:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:46:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-19:58:47:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:47:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:47:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:58:49:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:58:49:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:58:49:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:04:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:04:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:04:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:06:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:06:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:06:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:13:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:13:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:13:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:14:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:14:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:14:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:18:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:18:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:18:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:20:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:20:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:20:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:24:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:24:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:24:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:25:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-19:59:25:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-19:59:25:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-19:59:26:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-19:59:26:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/08-19:59:26:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-20:00:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-20:00:25:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/08-20:00:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/08-20:00:26:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-20:00:26:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-20:00:26:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-20:00:32:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-20:00:32:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-20:00:32:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/08-20:00:32:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/08-20:00:32:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/08-20:00:32:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: qrc:/component/SettingDialog.qml:96:29: Unable to assign [undefined] to QString  qrc:/component/SettingDialog.qml  96  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: QFile::remove: Empty or null file name    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-20:01:16:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/08-20:01:16:  defaultSuffix: "zip"
+2023/08/08-20:01:16:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/08-20:01:16:  defaultSuffix: "zip"
+2023/08/08-20:01:23:  save File name  ""
+2023/08/08-20:01:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-20:01:25:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/08-20:01:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/08-20:02:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-20:07:25:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/08-20:07:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+Warning: Qt Quick Layouts: Polish loop detected. Aborting after two iterations.    0  
+2023/08/08-20:08:13:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/08-20:08:13:  defaultSuffix: "zip"
+2023/08/08-20:08:13:  suffix: "CHITUBOX slicer(*.cbddlp);;CHITUBOX slicer(*.ctb);;Photon Series(*.photon);;Photon Series(*.photons);;Zip compress(*.zip);;NOVA3D(*.cws);;SLC(*.slc);;Fhd(*.fhd);;WoW(*.wow);;CHITUBOX general format(*.gf);;Phrozen file(*.phz);;FlashDLPrint file(*.svgx);;fdg(*.fdg);;Goo(*.goo);;Prz(*.prz);;AnyCubic_plugin(*.dl2p);;AnyCubic_plugin(*.dlp);;AnyCubic_plugin(*.photon);;AnyCubic_plugin(*.pm3);;AnyCubic_plugin(*.pm3m);;AnyCubic_plugin(*.pm3n);;AnyCubic_plugin(*.pm3r);;AnyCubic_plugin(*.pm5);;AnyCubic_plugin(*.pm5s);;AnyCubic_plugin(*.pmsq);;AnyCubic_plugin(*.pmx2);;AnyCubic_plugin(*.pw0);;AnyCubic_plugin(*.pwma);;AnyCubic_plugin(*.pwmb);;AnyCubic_plugin(*.pwmo);;AnyCubic_plugin(*.pwms);;AnyCubic_plugin(*.pwmx);;AnyCubic_plugin(*.pws);;AnyCubic_plugin(*.pwx);;AnyCubic_plugin(*.px6s);;All files (*)" "zip"
+2023/08/08-20:08:13:  defaultSuffix: "zip"
+2023/08/08-20:08:25:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/08-20:08:25:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/08-20:08:25:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/08-20:09:00:  save File name  "/home/dob/workspaces/3d_printer/zips/_Rook_qty_8_slice_0.025_mm.zip"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/08-20:09:01:  ErrorStatus = 0
+2023/08/08-20:09:01:  errorInfo: "SSL handshake failed"
+2023/08/10-19:55:01:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/10-19:55:01:  
+ control delete 
+2023/08/10-19:55:01:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/15-11:47:14:  main 556
+2023/08/15-11:47:15:  Software Version: CHITUBOX V1.9.5
+2023/08/15-11:47:15:  Operation system "arch unknown"
+2023/08/15-11:47:15:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/15-11:47:15:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/15-11:47:15:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/15-11:47:15:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/15-11:47:15:  
+ mqtt-server port :  52733
+2023/08/15-11:47:15:  
+ http-server port :  50852
+2023/08/15-11:47:15:  name: () 0
+2023/08/15-11:47:15:  current font: "Microsoft YaHei"
+2023/08/15-11:47:15:  default font: "Nimbus Sans"
+2023/08/15-11:47:15:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/15-11:47:16:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/15-11:47:16:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/15-11:47:18:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/15-11:47:18:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/15-11:47:18:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/15-11:47:18:  ViewArea x = 0  y =74***w = 0
+2023/08/15-11:47:18:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/15-11:47:18:  =======Version: "460" valid: true
+2023/08/15-11:47:18:  ==bSupport_GL_EXT: false
+2023/08/15-11:47:18:             GPU vendor: NVIDIA Corporation
+2023/08/15-11:47:18:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/15-11:47:18:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/15-11:47:18:             core: true
+2023/08/15-11:47:18:             validVersion: "46"
+2023/08/15-11:47:18:             hasFrameBufferObjects: true
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/15-11:47:18:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/15-11:47:18:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/15-11:47:18:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/15-11:47:18:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/15-11:47:18:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/15-11:47:19:  ErrorStatus = 0
+2023/08/15-11:47:19:  errorInfo: "SSL handshake failed"
+2023/08/15-11:47:19:  ErrorStatus = 0
+2023/08/15-11:47:19:  FunctionSwitch::handleFail
+2023/08/15-11:47:19:  ErrorStatus = 0
+2023/08/15-11:47:19:  errorInfo: "SSL handshake failed"
+2023/08/15-11:48:14:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/15-11:48:14:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/15-11:48:14:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-14:57:40:  main 556
+2023/08/18-14:57:40:  Software Version: CHITUBOX V1.9.5
+2023/08/18-14:57:40:  Operation system "arch unknown"
+2023/08/18-14:57:40:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-14:57:40:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/18-14:57:41:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-14:57:41:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-14:57:41:  
+ mqtt-server port :  50989
+2023/08/18-14:57:41:  
+ http-server port :  9188
+2023/08/18-14:57:41:  name: () 0
+2023/08/18-14:57:41:  current font: "Microsoft YaHei"
+2023/08/18-14:57:41:  default font: "Nimbus Sans"
+2023/08/18-14:57:41:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-14:57:41:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-14:57:41:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-14:57:43:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-14:57:43:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-14:57:43:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-14:57:43:  ViewArea x = 0  y =74***w = 0
+2023/08/18-14:57:43:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-14:57:44:  =======Version: "460" valid: true
+2023/08/18-14:57:44:  ==bSupport_GL_EXT: false
+2023/08/18-14:57:44:             GPU vendor: NVIDIA Corporation
+2023/08/18-14:57:44:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-14:57:44:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-14:57:44:             core: true
+2023/08/18-14:57:44:             validVersion: "46"
+2023/08/18-14:57:44:             hasFrameBufferObjects: true
+2023/08/18-14:57:44:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-14:57:44:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-14:57:44:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-14:57:44:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-14:57:44:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-14:57:44:  ErrorStatus = 0
+2023/08/18-14:57:44:  errorInfo: "SSL handshake failed"
+2023/08/18-14:57:44:  ErrorStatus = 0
+2023/08/18-14:57:44:  FunctionSwitch::handleFail
+2023/08/18-14:57:44:  ErrorStatus = 0
+2023/08/18-14:57:44:  errorInfo: "SSL handshake failed"
+2023/08/18-14:58:40:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-14:58:40:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-14:58:40:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-15:00:39:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-15:00:39:  
+ control delete 
+2023/08/18-15:00:39:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:26:00:  main 556
+2023/08/18-22:26:00:  Software Version: CHITUBOX V1.9.5
+2023/08/18-22:26:00:  Operation system "arch unknown"
+2023/08/18-22:26:00:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-22:26:00:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/18-22:26:00:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:26:00:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:26:00:  
+ mqtt-server port :  56033
+2023/08/18-22:26:00:  
+ http-server port :  7307
+2023/08/18-22:26:00:  name: () 0
+2023/08/18-22:26:00:  current font: "Microsoft YaHei"
+2023/08/18-22:26:00:  default font: "Nimbus Sans"
+2023/08/18-22:26:00:  =========================== "en" "/usr/local/share/resource/i18n/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:26:01:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-22:26:01:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/18-22:26:03:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-22:26:03:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:26:03:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:26:03:  ViewArea x = 0  y =74***w = 0
+2023/08/18-22:26:03:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:26:03:  =======Version: "460" valid: true
+2023/08/18-22:26:03:  ==bSupport_GL_EXT: false
+2023/08/18-22:26:03:             GPU vendor: NVIDIA Corporation
+2023/08/18-22:26:03:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-22:26:03:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-22:26:03:             core: true
+2023/08/18-22:26:03:             validVersion: "46"
+2023/08/18-22:26:03:             hasFrameBufferObjects: true
+2023/08/18-22:26:03:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:26:03:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:26:03:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:26:03:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:26:03:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/18-22:26:03:  ErrorStatus = 0
+2023/08/18-22:26:03:  FunctionSwitch::handleFail
+2023/08/18-22:26:03:  ErrorStatus = 0
+2023/08/18-22:26:03:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:26:03:  ErrorStatus = 0
+2023/08/18-22:26:03:  errorInfo: "SSL handshake failed"
+2023/08/18-22:27:00:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:27:00:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-22:27:00:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-22:27:12:  
+ control delete 
+2023/08/18-22:27:12:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:27:39:  main 556
+2023/08/18-22:27:39:  Software Version: CHITUBOX V1.9.5
+2023/08/18-22:27:39:  Operation system "arch unknown"
+2023/08/18-22:27:39:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-22:27:39:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:27:40:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:27:40:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:27:40:  
+ mqtt-server port :  39358
+2023/08/18-22:27:40:  
+ http-server port :  32618
+2023/08/18-22:27:40:  name: () 0
+2023/08/18-22:27:40:  current font: "Microsoft YaHei"
+2023/08/18-22:27:40:  default font: "Nimbus Sans"
+2023/08/18-22:27:40:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:27:40:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-22:27:40:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:27:42:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-22:27:42:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:27:42:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:27:42:  ViewArea x = 0  y =74***w = 0
+2023/08/18-22:27:42:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:27:43:  =======Version: "460" valid: true
+2023/08/18-22:27:43:  ==bSupport_GL_EXT: false
+2023/08/18-22:27:43:             GPU vendor: NVIDIA Corporation
+2023/08/18-22:27:43:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-22:27:43:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-22:27:43:             core: true
+2023/08/18-22:27:43:             validVersion: "46"
+2023/08/18-22:27:43:             hasFrameBufferObjects: true
+2023/08/18-22:27:43:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:27:43:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:27:43:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:27:43:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:27:43:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/18-22:27:43:  ErrorStatus = 0
+2023/08/18-22:27:43:  FunctionSwitch::handleFail
+2023/08/18-22:27:43:  ErrorStatus = 0
+2023/08/18-22:27:43:  errorInfo: "SSL handshake failed"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:27:43:  ErrorStatus = 0
+2023/08/18-22:27:43:  errorInfo: "SSL handshake failed"
+2023/08/18-22:28:40:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:28:40:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-22:28:40:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-22:29:30:  
+ control delete 
+2023/08/18-22:29:30:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:29:33:  main 556
+2023/08/18-22:29:33:  Software Version: CHITUBOX V1.9.5
+2023/08/18-22:29:33:  Operation system "arch unknown"
+2023/08/18-22:29:33:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-22:29:33:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/18-22:29:33:  main 556
+2023/08/18-22:29:33:  Software Version: CHITUBOX V1.9.5
+2023/08/18-22:29:33:  Operation system "arch unknown"
+2023/08/18-22:29:33:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-22:29:33:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:29:33:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:29:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:33:  
+ mqtt-server port :  64207
+2023/08/18-22:29:33:  
+ http-server port :  10784
+2023/08/18-22:29:33:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:29:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:33:  
+ mqtt-server port :  51875
+2023/08/18-22:29:33:  
+ http-server port :  36138
+2023/08/18-22:29:33:  name: () 0
+2023/08/18-22:29:33:  current font: "Microsoft YaHei"
+2023/08/18-22:29:33:  default font: "Nimbus Sans"
+2023/08/18-22:29:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:33:  name: () 0
+2023/08/18-22:29:33:  current font: "Microsoft YaHei"
+2023/08/18-22:29:33:  default font: "Nimbus Sans"
+2023/08/18-22:29:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:34:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-22:29:34:  currResouceRoot: "/usr/local/share/resource/"
+2023/08/18-22:29:34:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-22:29:34:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:29:36:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-22:29:36:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:29:36:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:36:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-22:29:36:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:29:36:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:29:36:  ViewArea x = 0  y =74***w = 0
+2023/08/18-22:29:36:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:29:36:  ViewArea x = 0  y =74***w = 0
+2023/08/18-22:29:36:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:29:36:  =======Version: "460" valid: true
+2023/08/18-22:29:36:  ==bSupport_GL_EXT: false
+2023/08/18-22:29:36:             GPU vendor: NVIDIA Corporation
+2023/08/18-22:29:36:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-22:29:36:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-22:29:36:             core: true
+2023/08/18-22:29:36:             validVersion: "46"
+2023/08/18-22:29:36:             hasFrameBufferObjects: true
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/18-22:29:36:  =======Version: "460" valid: true
+2023/08/18-22:29:36:  ==bSupport_GL_EXT: false
+2023/08/18-22:29:36:             GPU vendor: NVIDIA Corporation
+2023/08/18-22:29:36:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-22:29:36:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-22:29:36:             core: true
+2023/08/18-22:29:36:             validVersion: "46"
+2023/08/18-22:29:36:             hasFrameBufferObjects: true
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:36:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:29:36:  ErrorStatus = 0
+2023/08/18-22:29:36:  FunctionSwitch::handleFail
+2023/08/18-22:29:36:  ErrorStatus = 0
+2023/08/18-22:29:36:  errorInfo: "SSL handshake failed"
+2023/08/18-22:29:36:  ErrorStatus = 0
+2023/08/18-22:29:36:  errorInfo: "SSL handshake failed"
+2023/08/18-22:29:37:  ErrorStatus = 0
+2023/08/18-22:29:37:  FunctionSwitch::handleFail
+2023/08/18-22:29:37:  ErrorStatus = 0
+2023/08/18-22:29:37:  errorInfo: "SSL handshake failed"
+2023/08/18-22:29:37:  ErrorStatus = 0
+2023/08/18-22:29:37:  errorInfo: "SSL handshake failed"
+2023/08/18-22:29:39:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:39:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:39:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:39:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:29:39:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-22:30:33:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-22:33:33:  
+ control delete 
+2023/08/18-22:33:33:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:33:34:  
+ control delete 
+2023/08/18-22:33:34:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:51:33:  main 556
+2023/08/18-22:51:33:  Software Version: CHITUBOX V1.9.5
+2023/08/18-22:51:33:  Operation system "arch unknown"
+2023/08/18-22:51:33:  applicationFilePath(): "/usr/local/share/CHITUBOX"
+2023/08/18-22:51:33:  screenRect QRect(0,0 2560x1080) available: QRect(0,0 2560x1080)
+2023/08/18-22:51:33:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:51:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:51:33:  
+ mqtt-server port :  22155
+2023/08/18-22:51:33:  
+ http-server port :  58287
+2023/08/18-22:51:33:  name: () 0
+2023/08/18-22:51:33:  current font: "Microsoft YaHei"
+2023/08/18-22:51:33:  default font: "Nimbus Sans"
+2023/08/18-22:51:33:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:51:34:  currConfigRoot: "/home/dob/.config/ChiTuBox"
+2023/08/18-22:51:34:  currResouceRoot: "/usr/local/share/resource/"
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:51:36:  @@@@ "English" "United States" "Latin" "en" QLocale::UnitedStates 19
+2023/08/18-22:51:36:  updateLangSel: ("zh_TW", "zh_CN", "en", "ko", "gr", "ru", "tr", "ptbr", "de", "it", "fr", "es", "jp", "cz", "ar", "fi", "hu", "nl", "pl")
+2023/08/18-22:51:36:  =========================== "en" "/usr/local/share/resource/i18n/"
+2023/08/18-22:51:36:  ViewArea x = 0  y =74***w = 0
+2023/08/18-22:51:36:  loadFileFromArgument 
+Warning: QFile::remove: Empty or null file name    0  
+2023/08/18-22:51:36:  =======Version: "460" valid: true
+2023/08/18-22:51:36:  ==bSupport_GL_EXT: false
+2023/08/18-22:51:36:             GPU vendor: NVIDIA Corporation
+2023/08/18-22:51:36:             GPU version: 4.6.0 NVIDIA 535.98
+2023/08/18-22:51:36:             GPU render: NVIDIA GeForce GTX 1080/PCIe/SSE2
+2023/08/18-22:51:36:             core: true
+2023/08/18-22:51:36:             validVersion: "46"
+2023/08/18-22:51:36:             hasFrameBufferObjects: true
+2023/08/18-22:51:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:51:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:51:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:51:36:  QOpenGLFramebufferObject: Framebuffer incomplete attachment.
+2023/08/18-22:51:36:  QOpenGLFramebufferObject: Framebuffer incomplete, missing attachment.
+2023/08/18-22:51:36:  ErrorStatus = 0
+2023/08/18-22:51:36:  errorInfo: "SSL handshake failed"
+2023/08/18-22:51:36:  ErrorStatus = 0
+2023/08/18-22:51:36:  FunctionSwitch::handleFail
+Warning: QSslSocket: cannot call unresolved function SSL_get_peer_certificate    0  
+2023/08/18-22:51:36:  ErrorStatus = 0
+2023/08/18-22:51:36:  errorInfo: "SSL handshake failed"
+2023/08/18-22:52:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:52:33:  save to file: "/home/dob/.config/ChiTuBox/machine/2.cfg"
+2023/08/18-22:52:33:  save to file: "/home/dob/.config/ChiTuBox/machineBackup/2.cfg"
+2023/08/18-22:53:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:54:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-22:55:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:07:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:09:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:11:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:13:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:15:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:29:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:30:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:31:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:32:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:37:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:40:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:41:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:42:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:43:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:44:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:47:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:51:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:52:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:53:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:56:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:57:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:58:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/18-23:59:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:03:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:04:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:15:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:17:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:22:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:23:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:25:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:33:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:34:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:35:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:36:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:37:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:39:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+2023/08/19-00:41:33:  save to file: "/home/dob/.config/ChiTuBox/global.cfg"
+Warning: The X11 connection broke (error 1). Did the X11 server die?    0  
+2023/08/19-00:44:30:  
+ control delete 
+2023/08/19-00:44:30:  
+ mqtt server end
+Warning: QFile::remove: Empty or null file name    0  

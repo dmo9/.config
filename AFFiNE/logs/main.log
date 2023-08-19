@@ -1,0 +1,1404 @@
+[2023-08-05 20:44:16.642] [info]  (main) import plugin manager
+[2023-08-05 20:44:16.650] [info]  (main) [ipc-event] updater:onDownloadProgress [ 0 ]
+[2023-08-05 20:44:16.655] [info]  (main) create window
+[2023-08-05 20:44:16.667] [info]  (main) import plugin manager
+[2023-08-05 20:44:16.668] [info]  (main) bookmark plugin path: /home/dob/Downloads/AFFiNE-linux-x64/resources/app/dist/plugins/bookmark-block/index.mjs
+[2023-08-05 20:44:16.672] [info]  (main) register plugin com.blocksuite.bookmark-block
+[2023-08-05 20:44:16.672] [info]  (main) register plugin command com.blocksuite.bookmark-block.get-bookmark-data-by-link
+[2023-08-05 20:44:16.731] [info]  (main) unregister plugin command com.blocksuite.bookmark-block.get-bookmark-data-by-link
+[2023-08-05 20:44:16.732] [info]  (main) register plugin com.blocksuite.bookmark-block
+[2023-08-05 20:44:16.732] [info]  (main) register plugin command com.blocksuite.bookmark-block.get-bookmark-data-by-link
+[2023-08-05 20:44:16.733] [info]  (main) Plugin Worker import plugin infra
+[2023-08-05 20:44:16.734] [info]  (main) Plugin Worker import bookmark plugin /home/dob/Downloads/AFFiNE-linux-x64/resources/app/dist/plugins/bookmark-block/index.mjs
+[2023-08-05 20:44:16.734] [info]  (main) Plugin Worker handle plugin com.blocksuite.bookmark-block
+[2023-08-05 20:44:16.734] [info]  (main) Plugin Worker no server adapter, skipping.
+[2023-08-05 20:44:16.735] [info]  (main) Plugin Worker register server adapter
+[2023-08-05 20:44:16.784] [info]  (main) Plugin Worker handle plugin com.blocksuite.bookmark-block
+[2023-08-05 20:44:16.784] [info]  (main) Plugin Worker register command com.blocksuite.bookmark-block.get-bookmark-data-by-link
+[2023-08-05 20:44:16.841] [info]  (main) loading page at file://./index.html
+[2023-08-05 20:44:17.171] [info]  (main) main window is loaded at file://./index.html
+[2023-08-05 20:44:17.179] [debug] (main) auto-updater feed config {
+  channel: 'stable',
+  provider: 'github',
+  repo: 'AFFiNE',
+  owner: 'toeverything',
+  releaseType: 'release'
+}
+[2023-08-05 20:44:17.184] [info]  (main) main window is ready to show
+[2023-08-05 20:44:17.185] [info]  (main) [ipc-api] ui:handleThemeChange [ 'system' ] - 0.07 ms
+[2023-08-05 20:44:17.186] [info]  (helper) [helper] renderer connected
+[2023-08-05 20:44:17.202] [info]  (helper) [async-api] workspace.list [] - 2.96 ms
+[2023-08-05 20:44:17.361] [info]  (helper) [SQLiteAdapter:primary] connected: /home/dob/.config/AFFiNE/workspaces/hNslaIQ9Xn/storage.db
+[2023-08-05 20:44:17.361] [debug] (helper) WorkspaceSQLiteDB:setupListener hNslaIQ9Xn undefined undefined
+[2023-08-05 20:44:17.362] [info]  (helper) openWorkspaceDatabase [hNslaIQ9Xn]
+[2023-08-05 20:44:17.363] [info]  (helper) [ensureSQLiteDB] db connection established hNslaIQ9Xn
+[2023-08-05 20:44:17.366] [info]  (helper) [async-api] db.getDocAsUpdates [ 'hNslaIQ9Xn', null ] - 33.70 ms
+[2023-08-05 20:44:17.374] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 605
+[2023-08-05 20:44:17.375] [info]  (helper) onSubdocs hNslaIQ9Xn undefined [ {} ]
+[2023-08-05 20:44:17.375] [debug] (helper) WorkspaceSQLiteDB:setupListener hNslaIQ9Xn space:hNslaIQ9Xn-hello-world Demo Workspace
+[2023-08-05 20:44:17.376] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 6.66 ms
+[2023-08-05 20:44:17.377] [info]  (helper) [async-api] db.getDocAsUpdates [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.08 ms
+[2023-08-05 20:44:17.378] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.2984839994460344 ms
+[2023-08-05 20:44:17.420] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 140333
+[2023-08-05 20:44:17.420] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 30.77 ms
+[2023-08-05 20:44:17.425] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 5.346886999905109 ms
+[2023-08-05 20:44:17.627] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 26
+[2023-08-05 20:44:17.628] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.86 ms
+[2023-08-05 20:44:17.632] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.0987319983541965 ms
+[2023-08-05 20:44:17.638] [info]  (main) [ipc-api] updater:currentVersion [] - 0.06 ms
+[2023-08-05 20:44:17.665] [warn]  (main) APPIMAGE env is not defined, current application is not an AppImage
+[2023-08-05 20:44:17.665] [info]  (main) [ipc-api] updater:checkForUpdatesAndNotify [] - 0.55 ms
+[2023-08-05 20:44:17.683] [info]  (main) [ipc-api] ui:handleSidebarVisibilityChange [ true ] - 0.08 ms
+[2023-08-05 20:44:17.729] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 39
+[2023-08-05 20:44:17.729] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.98 ms
+[2023-08-05 20:44:17.733] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.204509999603033 ms
+[2023-08-05 20:44:17.761] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 59
+[2023-08-05 20:44:17.761] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.60 ms
+[2023-08-05 20:44:17.764] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.4477219991385937 ms
+[2023-08-05 20:44:17.766] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/27f983d0765289c19d10ee0b51c00c3c7665236a1a82406370d46e0a.gif'
+] - 0.39 ms
+[2023-08-05 20:44:17.766] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/1326bc48553a572c6756d9ee1b30a0dfdda26222fc2d2c872b14e609.gif'
+] - 0.19 ms
+[2023-08-05 20:44:17.767] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/28516717d63e469cd98729ff46be6595711898bab3dc43302319a987.gif'
+] - 0.13 ms
+[2023-08-05 20:44:17.767] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/9288be57321c8772d04e05dbb69a22742372b3534442607a2d6a9998.gif'
+] - 0.11 ms
+[2023-08-05 20:44:17.768] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/c820edeeba50006b531883903f5bb0b96bf523c9a6b3ce5868f03db5.gif'
+] - 0.12 ms
+[2023-08-05 20:44:17.768] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/e93536e1be97e3b5206d43bf0793fdef24e60044d174f0abdefebe08.gif'
+] - 0.11 ms
+[2023-08-05 20:44:17.769] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/047ebf2c9a5c7c9d8521c2ea5e6140ff7732ef9e28a9f944e9bf3ca4.png'
+] - 0.29 ms
+[2023-08-05 20:44:17.770] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/6aa785ee927547ce9dd9d7b43e01eac948337fe57571443e87bc3a60.png'
+] - 0.43 ms
+[2023-08-05 20:44:17.865] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 87
+[2023-08-05 20:44:17.866] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 1.31 ms
+[2023-08-05 20:44:17.867] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:17.868] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.96 ms
+[2023-08-05 20:44:17.869] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 89
+[2023-08-05 20:44:17.870] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 1.06 ms
+[2023-08-05 20:44:17.871] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:17.871] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 1.08 ms
+[2023-08-05 20:44:17.873] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:17.873] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 1.35 ms
+[2023-08-05 20:44:17.875] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 88
+[2023-08-05 20:44:17.875] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.94 ms
+[2023-08-05 20:44:17.876] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 89
+[2023-08-05 20:44:17.877] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.85 ms
+[2023-08-05 20:44:17.878] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:17.879] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 1.01 ms
+[2023-08-05 20:44:17.880] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 92
+[2023-08-05 20:44:17.881] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.99 ms
+[2023-08-05 20:44:17.882] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:17.882] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.78 ms
+[2023-08-05 20:44:17.883] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 91
+[2023-08-05 20:44:17.884] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.82 ms
+[2023-08-05 20:44:17.884] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 18.646638000383973 ms
+[2023-08-05 20:44:17.885] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 17.180703001096845 ms
+[2023-08-05 20:44:17.885] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 15.83126899972558 ms
+[2023-08-05 20:44:17.886] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 14.423801999539137 ms
+[2023-08-05 20:44:17.886] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 7.657151998952031 ms
+[2023-08-05 20:44:17.887] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 6.289785001426935 ms
+[2023-08-05 20:44:17.888] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 5.794405000284314 ms
+[2023-08-05 20:44:17.893] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 9.464524999260902 ms
+[2023-08-05 20:44:17.896] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:17.897] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.90 ms
+[2023-08-05 20:44:17.899] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 23.976156000047922 ms
+[2023-08-05 20:44:17.903] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 6.898096999153495 ms
+[2023-08-05 20:44:17.910] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 36.70265500061214 ms
+[2023-08-05 20:44:17.914] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 37.115312000736594 ms
+[2023-08-05 20:44:39.524] [info]  (main) [ipc-event] applicationMenu:onNewPageAction []
+[2023-08-05 20:44:39.528] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 146
+[2023-08-05 20:44:39.529] [info]  (helper) onSubdocs hNslaIQ9Xn undefined [ {} ]
+[2023-08-05 20:44:39.529] [debug] (helper) WorkspaceSQLiteDB:setupListener hNslaIQ9Xn space:GRTV903KX6 Demo Workspace
+[2023-08-05 20:44:39.529] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.61 ms
+[2023-08-05 20:44:39.530] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.14 ms
+[2023-08-05 20:44:39.533] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.438364999368787 ms
+[2023-08-05 20:44:39.555] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 39
+[2023-08-05 20:44:39.555] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.95 ms
+[2023-08-05 20:44:39.559] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:GRTV903KX6 134
+[2023-08-05 20:44:39.559] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:GRTV903KX6' ] - 0.87 ms
+[2023-08-05 20:44:39.560] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:44:39.561] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.70 ms
+[2023-08-05 20:44:39.561] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 6.09226500056684 ms
+[2023-08-05 20:44:39.562] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:GRTV903KX6 161
+[2023-08-05 20:44:39.563] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:GRTV903KX6' ] - 0.82 ms
+[2023-08-05 20:44:39.564] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:44:39.564] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.67 ms
+[2023-08-05 20:44:39.565] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:GRTV903KX6 276
+[2023-08-05 20:44:39.566] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:GRTV903KX6' ] - 0.86 ms
+[2023-08-05 20:44:39.567] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:44:39.567] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.83 ms
+[2023-08-05 20:44:39.568] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:GRTV903KX6 184
+[2023-08-05 20:44:39.569] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:GRTV903KX6' ] - 0.94 ms
+[2023-08-05 20:44:39.570] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:44:39.570] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.72 ms
+[2023-08-05 20:44:39.571] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:GRTV903KX6' ] 11.640192000195384 ms
+[2023-08-05 20:44:39.571] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:GRTV903KX6' ] 8.801408000290394 ms
+[2023-08-05 20:44:39.572] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 5.176502000540495 ms
+[2023-08-05 20:44:39.573] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:GRTV903KX6 39
+[2023-08-05 20:44:39.574] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:GRTV903KX6' ] - 0.72 ms
+[2023-08-05 20:44:39.575] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:GRTV903KX6' ] 6.879986001178622 ms
+[2023-08-05 20:44:39.579] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 9.39168499968946 ms
+[2023-08-05 20:44:39.583] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:GRTV903KX6' ] 9.154388999566436 ms
+[2023-08-05 20:44:39.588] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:GRTV903KX6' ] 22.200489001348615 ms
+[2023-08-05 20:44:39.598] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 36.921321000903845 ms
+[2023-08-05 20:44:39.601] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 37.16195799969137 ms
+[2023-08-05 20:44:39.605] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:39.605] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.43 ms
+[2023-08-05 20:44:39.609] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.594006000086665 ms
+[2023-08-05 20:44:39.625] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/27f983d0765289c19d10ee0b51c00c3c7665236a1a82406370d46e0a.gif'
+] - 0.30 ms
+[2023-08-05 20:44:39.626] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/1326bc48553a572c6756d9ee1b30a0dfdda26222fc2d2c872b14e609.gif'
+] - 0.35 ms
+[2023-08-05 20:44:39.626] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/28516717d63e469cd98729ff46be6595711898bab3dc43302319a987.gif'
+] - 0.49 ms
+[2023-08-05 20:44:39.627] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/9288be57321c8772d04e05dbb69a22742372b3534442607a2d6a9998.gif'
+] - 0.31 ms
+[2023-08-05 20:44:39.627] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/c820edeeba50006b531883903f5bb0b96bf523c9a6b3ce5868f03db5.gif'
+] - 0.46 ms
+[2023-08-05 20:44:39.628] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/e93536e1be97e3b5206d43bf0793fdef24e60044d174f0abdefebe08.gif'
+] - 0.18 ms
+[2023-08-05 20:44:39.628] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/047ebf2c9a5c7c9d8521c2ea5e6140ff7732ef9e28a9f944e9bf3ca4.png'
+] - 0.21 ms
+[2023-08-05 20:44:39.629] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/6aa785ee927547ce9dd9d7b43e01eac948337fe57571443e87bc3a60.png'
+] - 0.37 ms
+[2023-08-05 20:44:39.702] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:44:39.703] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.65 ms
+[2023-08-05 20:44:39.710] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 7.171163000166416 ms
+[2023-08-05 20:44:39.729] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:39.729] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.50 ms
+[2023-08-05 20:44:39.735] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 5.9983140006661415 ms
+[2023-08-05 20:44:39.771] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:39.772] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.53 ms
+[2023-08-05 20:44:39.778] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 6.225361000746489 ms
+[2023-08-05 20:44:39.802] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:39.803] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.72 ms
+[2023-08-05 20:44:39.806] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.4417490009218454 ms
+[2023-08-05 20:44:39.839] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:44:39.840] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.31 ms
+[2023-08-05 20:44:39.844] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.8775110002607107 ms
+[2023-08-05 20:44:50.915] [info]  (main) [ipc-api] ui:handleSidebarVisibilityChange [ false ] - 0.04 ms
+[2023-08-05 20:44:52.775] [info]  (main) [ipc-api] ui:handleSidebarVisibilityChange [ true ] - 0.02 ms
+[2023-08-05 20:44:54.368] [info]  (main) [ipc-api] ui:handleSidebarVisibilityChange [ false ] - 0.04 ms
+[2023-08-05 20:45:04.763] [info]  (main) [ipc-api] ui:handleSidebarVisibilityChange [ true ] - 0.02 ms
+[2023-08-05 20:45:07.235] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:07.236] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.56 ms
+[2023-08-05 20:45:07.251] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 15.733167998492718 ms
+[2023-08-05 20:45:07.289] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:07.290] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.24 ms
+[2023-08-05 20:45:07.294] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.6940439995378256 ms
+[2023-08-05 20:45:09.384] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:09.385] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.06 ms
+[2023-08-05 20:45:09.389] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.292666999623179 ms
+[2023-08-05 20:45:09.409] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/27f983d0765289c19d10ee0b51c00c3c7665236a1a82406370d46e0a.gif'
+] - 0.54 ms
+[2023-08-05 20:45:09.410] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/1326bc48553a572c6756d9ee1b30a0dfdda26222fc2d2c872b14e609.gif'
+] - 1.13 ms
+[2023-08-05 20:45:09.412] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/28516717d63e469cd98729ff46be6595711898bab3dc43302319a987.gif'
+] - 0.98 ms
+[2023-08-05 20:45:09.412] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/9288be57321c8772d04e05dbb69a22742372b3534442607a2d6a9998.gif'
+] - 1.54 ms
+[2023-08-05 20:45:09.413] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/c820edeeba50006b531883903f5bb0b96bf523c9a6b3ce5868f03db5.gif'
+] - 2.15 ms
+[2023-08-05 20:45:09.414] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/e93536e1be97e3b5206d43bf0793fdef24e60044d174f0abdefebe08.gif'
+] - 2.74 ms
+[2023-08-05 20:45:09.416] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/047ebf2c9a5c7c9d8521c2ea5e6140ff7732ef9e28a9f944e9bf3ca4.png'
+] - 0.44 ms
+[2023-08-05 20:45:09.417] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/6aa785ee927547ce9dd9d7b43e01eac948337fe57571443e87bc3a60.png'
+] - 1.08 ms
+[2023-08-05 20:45:09.481] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:45:09.482] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.97 ms
+[2023-08-05 20:45:09.497] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 15.944568000733852 ms
+[2023-08-05 20:45:09.499] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:09.500] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.16 ms
+[2023-08-05 20:45:09.504] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.9736030008643866 ms
+[2023-08-05 20:45:13.137] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:13.138] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.44 ms
+[2023-08-05 20:45:13.142] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.502515999600291 ms
+[2023-08-05 20:45:13.161] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/27f983d0765289c19d10ee0b51c00c3c7665236a1a82406370d46e0a.gif'
+] - 0.52 ms
+[2023-08-05 20:45:13.162] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/1326bc48553a572c6756d9ee1b30a0dfdda26222fc2d2c872b14e609.gif'
+] - 0.84 ms
+[2023-08-05 20:45:13.163] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/28516717d63e469cd98729ff46be6595711898bab3dc43302319a987.gif'
+] - 0.50 ms
+[2023-08-05 20:45:13.164] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/9288be57321c8772d04e05dbb69a22742372b3534442607a2d6a9998.gif'
+] - 0.87 ms
+[2023-08-05 20:45:13.164] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/c820edeeba50006b531883903f5bb0b96bf523c9a6b3ce5868f03db5.gif'
+] - 1.29 ms
+[2023-08-05 20:45:13.166] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/e93536e1be97e3b5206d43bf0793fdef24e60044d174f0abdefebe08.gif'
+] - 0.48 ms
+[2023-08-05 20:45:13.166] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/047ebf2c9a5c7c9d8521c2ea5e6140ff7732ef9e28a9f944e9bf3ca4.png'
+] - 1.06 ms
+[2023-08-05 20:45:13.167] [info]  (helper) [async-api] db.getBlob [
+  'hNslaIQ9Xn',
+  '/static/6aa785ee927547ce9dd9d7b43e01eac948337fe57571443e87bc3a60.png'
+] - 1.44 ms
+[2023-08-05 20:45:13.221] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:hNslaIQ9Xn-hello-world 90
+[2023-08-05 20:45:13.222] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:hNslaIQ9Xn-hello-world' ] - 0.97 ms
+[2023-08-05 20:45:13.241] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:13.241] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.98 ms
+[2023-08-05 20:45:13.242] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:hNslaIQ9Xn-hello-world' ] 19.755122000351548 ms
+[2023-08-05 20:45:13.246] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.910861000418663 ms
+[2023-08-05 20:45:15.149] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 146
+[2023-08-05 20:45:15.150] [info]  (helper) onSubdocs hNslaIQ9Xn undefined [ {} ]
+[2023-08-05 20:45:15.150] [debug] (helper) WorkspaceSQLiteDB:setupListener hNslaIQ9Xn space:4qqlaTPwFI Demo Workspace
+[2023-08-05 20:45:15.151] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 2.69 ms
+[2023-08-05 20:45:15.152] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.34 ms
+[2023-08-05 20:45:15.154] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.123530998826027 ms
+[2023-08-05 20:45:15.205] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 39
+[2023-08-05 20:45:15.205] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.66 ms
+[2023-08-05 20:45:15.210] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 134
+[2023-08-05 20:45:15.211] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.20 ms
+[2023-08-05 20:45:15.211] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 5.657068999484181 ms
+[2023-08-05 20:45:15.212] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:45:15.213] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.75 ms
+[2023-08-05 20:45:15.214] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 161
+[2023-08-05 20:45:15.214] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:45:15.215] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:45:15.216] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.73 ms
+[2023-08-05 20:45:15.217] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 276
+[2023-08-05 20:45:15.218] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.51 ms
+[2023-08-05 20:45:15.219] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:45:15.220] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.11 ms
+[2023-08-05 20:45:15.222] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 184
+[2023-08-05 20:45:15.223] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.64 ms
+[2023-08-05 20:45:15.224] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 27
+[2023-08-05 20:45:15.225] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.11 ms
+[2023-08-05 20:45:15.225] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 14.992320999503136 ms
+[2023-08-05 20:45:15.226] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 11.777822999283671 ms
+[2023-08-05 20:45:15.226] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 8.660016000270844 ms
+[2023-08-05 20:45:15.227] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.332305999472737 ms
+[2023-08-05 20:45:15.228] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 39
+[2023-08-05 20:45:15.228] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.74 ms
+[2023-08-05 20:45:15.230] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 5.0014390014112 ms
+[2023-08-05 20:45:15.233] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.258203001692891 ms
+[2023-08-05 20:45:15.236] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:45:15.236] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.76 ms
+[2023-08-05 20:45:15.237] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 21.782523998990655 ms
+[2023-08-05 20:45:15.241] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.990836000069976 ms
+[2023-08-05 20:45:15.249] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 36.705682000145316 ms
+[2023-08-05 20:45:15.257] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 36.66954799927771 ms
+[2023-08-05 20:50:17.627] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 28
+[2023-08-05 20:50:17.627] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.06 ms
+[2023-08-05 20:50:17.629] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 19
+[2023-08-05 20:50:17.631] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 2.46 ms
+[2023-08-05 20:50:17.634] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 6.724161000922322 ms
+[2023-08-05 20:50:17.637] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.6422680001705885 ms
+[2023-08-05 20:50:17.824] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 29
+[2023-08-05 20:50:17.825] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.93 ms
+[2023-08-05 20:50:17.826] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:17.826] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.00 ms
+[2023-08-05 20:50:17.829] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.9937579985708 ms
+[2023-08-05 20:50:17.833] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 7.056324999779463 ms
+[2023-08-05 20:50:18.082] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 30
+[2023-08-05 20:50:18.083] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.00 ms
+[2023-08-05 20:50:18.084] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.084] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.69 ms
+[2023-08-05 20:50:18.087] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.14083500020206 ms
+[2023-08-05 20:50:18.091] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.995215000584722 ms
+[2023-08-05 20:50:18.311] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 31
+[2023-08-05 20:50:18.312] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.99 ms
+[2023-08-05 20:50:18.313] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.313] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.72 ms
+[2023-08-05 20:50:18.316] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.480425000190735 ms
+[2023-08-05 20:50:18.320] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.9596840012818575 ms
+[2023-08-05 20:50:18.474] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 32
+[2023-08-05 20:50:18.475] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.96 ms
+[2023-08-05 20:50:18.476] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.476] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.73 ms
+[2023-08-05 20:50:18.479] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.7930159997195005 ms
+[2023-08-05 20:50:18.483] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.718989999964833 ms
+[2023-08-05 20:50:18.674] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 33
+[2023-08-05 20:50:18.675] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.92 ms
+[2023-08-05 20:50:18.676] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.676] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.98 ms
+[2023-08-05 20:50:18.679] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.347410000860691 ms
+[2023-08-05 20:50:18.683] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.869975998997688 ms
+[2023-08-05 20:50:18.866] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 34
+[2023-08-05 20:50:18.866] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.89 ms
+[2023-08-05 20:50:18.867] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.867] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.68 ms
+[2023-08-05 20:50:18.870] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.7510309983044863 ms
+[2023-08-05 20:50:18.874] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.666641999036074 ms
+[2023-08-05 20:50:18.954] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 35
+[2023-08-05 20:50:18.955] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.94 ms
+[2023-08-05 20:50:18.956] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:18.956] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.72 ms
+[2023-08-05 20:50:18.958] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.710811998695135 ms
+[2023-08-05 20:50:18.963] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.821006000041962 ms
+[2023-08-05 20:50:19.153] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 36
+[2023-08-05 20:50:19.154] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.00 ms
+[2023-08-05 20:50:19.155] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.156] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.70 ms
+[2023-08-05 20:50:19.158] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.8711849991232157 ms
+[2023-08-05 20:50:19.162] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.7664740011096 ms
+[2023-08-05 20:50:19.282] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 37
+[2023-08-05 20:50:19.283] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.86 ms
+[2023-08-05 20:50:19.283] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.283] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.35 ms
+[2023-08-05 20:50:19.287] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.127120001241565 ms
+[2023-08-05 20:50:19.295] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 11.805352998897433 ms
+[2023-08-05 20:50:19.367] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 38
+[2023-08-05 20:50:19.368] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.02 ms
+[2023-08-05 20:50:19.369] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.370] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.09 ms
+[2023-08-05 20:50:19.371] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.701648000627756 ms
+[2023-08-05 20:50:19.376] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.898674000054598 ms
+[2023-08-05 20:50:19.598] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 39
+[2023-08-05 20:50:19.599] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.01 ms
+[2023-08-05 20:50:19.600] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.600] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:50:19.603] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.236554000526667 ms
+[2023-08-05 20:50:19.607] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.430800000205636 ms
+[2023-08-05 20:50:19.765] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 40
+[2023-08-05 20:50:19.765] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.98 ms
+[2023-08-05 20:50:19.766] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.767] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:50:19.769] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.126878999173641 ms
+[2023-08-05 20:50:19.774] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.873733000829816 ms
+[2023-08-05 20:50:19.982] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 41
+[2023-08-05 20:50:19.982] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 1.02 ms
+[2023-08-05 20:50:19.983] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:19.984] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.72 ms
+[2023-08-05 20:50:19.986] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.7343309987336397 ms
+[2023-08-05 20:50:19.991] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.823497999459505 ms
+[2023-08-05 20:50:20.058] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 42
+[2023-08-05 20:50:20.058] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.89 ms
+[2023-08-05 20:50:20.060] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:20.060] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.74 ms
+[2023-08-05 20:50:20.062] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.6937949992716312 ms
+[2023-08-05 20:50:20.067] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.883422998711467 ms
+[2023-08-05 20:50:20.152] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:50:20.153] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.99 ms
+[2023-08-05 20:50:20.154] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:20.155] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.72 ms
+[2023-08-05 20:50:20.157] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.7316619995981455 ms
+[2023-08-05 20:50:20.161] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.868359999731183 ms
+[2023-08-05 20:50:40.410] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 201
+[2023-08-05 20:50:40.411] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.22 ms
+[2023-08-05 20:50:40.415] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.3659520000219345 ms
+[2023-08-05 20:50:40.423] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:50:40.424] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.98 ms
+[2023-08-05 20:50:40.427] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.381291000172496 ms
+[2023-08-05 20:50:53.338] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 19
+[2023-08-05 20:50:53.339] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.97 ms
+[2023-08-05 20:50:53.343] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.088882001116872 ms
+[2023-08-05 20:50:53.505] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:53.505] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.00 ms
+[2023-08-05 20:50:53.508] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 40
+[2023-08-05 20:50:53.509] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.76 ms
+[2023-08-05 20:50:53.510] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.198427999392152 ms
+[2023-08-05 20:50:53.513] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.329076999798417 ms
+[2023-08-05 20:50:53.610] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:53.611] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.75 ms
+[2023-08-05 20:50:53.615] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7111010011285543 ms
+[2023-08-05 20:50:53.777] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:50:53.778] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:50:53.782] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.209653999656439 ms
+[2023-08-05 20:50:55.468] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 201
+[2023-08-05 20:50:55.469] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.14 ms
+[2023-08-05 20:50:55.473] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.638695001602173 ms
+[2023-08-05 20:50:55.487] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:50:55.488] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.80 ms
+[2023-08-05 20:50:55.491] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.4114839993417263 ms
+[2023-08-05 20:50:56.275] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:50:56.276] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.57 ms
+[2023-08-05 20:50:56.277] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 189
+[2023-08-05 20:50:56.278] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.21 ms
+[2023-08-05 20:50:56.280] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8734910003840923 ms
+[2023-08-05 20:50:56.285] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.8322560004889965 ms
+[2023-08-05 20:50:56.295] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:50:56.296] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.77 ms
+[2023-08-05 20:50:56.300] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.0113239996135235 ms
+[2023-08-05 20:50:56.602] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 64
+[2023-08-05 20:50:56.603] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.38 ms
+[2023-08-05 20:50:56.607] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.855589000508189 ms
+[2023-08-05 20:51:00.312] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.313] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.09 ms
+[2023-08-05 20:51:00.317] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.595527000725269 ms
+[2023-08-05 20:51:00.364] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.364] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:00.368] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5443890001624823 ms
+[2023-08-05 20:51:00.445] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.446] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:51:00.450] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7335289996117353 ms
+[2023-08-05 20:51:00.640] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.641] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:51:00.645] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.380966000258923 ms
+[2023-08-05 20:51:00.745] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.746] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.97 ms
+[2023-08-05 20:51:00.753] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 7.155503999441862 ms
+[2023-08-05 20:51:00.866] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:00.867] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.07 ms
+[2023-08-05 20:51:00.871] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2304389998316765 ms
+[2023-08-05 20:51:01.131] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.131] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.93 ms
+[2023-08-05 20:51:01.138] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.863230999559164 ms
+[2023-08-05 20:51:01.377] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.377] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.69 ms
+[2023-08-05 20:51:01.381] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.042522998526692 ms
+[2023-08-05 20:51:01.515] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.516] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.92 ms
+[2023-08-05 20:51:01.520] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.208310000598431 ms
+[2023-08-05 20:51:01.650] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.651] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:01.655] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.126096999272704 ms
+[2023-08-05 20:51:01.755] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.756] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:01.760] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.285673998296261 ms
+[2023-08-05 20:51:01.860] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.861] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:01.868] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 7.1986459996551275 ms
+[2023-08-05 20:51:01.956] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:01.956] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:51:01.960] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6450210008770227 ms
+[2023-08-05 20:51:02.095] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:02.096] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:02.100] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.829075999557972 ms
+[2023-08-05 20:51:02.270] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:02.271] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.22 ms
+[2023-08-05 20:51:02.279] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 8.05931800045073 ms
+[2023-08-05 20:51:02.544] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:02.544] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.93 ms
+[2023-08-05 20:51:02.548] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6522610001266003 ms
+[2023-08-05 20:51:02.730] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:02.731] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:02.734] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7333949990570545 ms
+[2023-08-05 20:51:02.875] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:02.876] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:51:02.879] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.835700999945402 ms
+[2023-08-05 20:51:03.007] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:03.007] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:03.011] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.886063000187278 ms
+[2023-08-05 20:51:03.060] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:03.061] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.77 ms
+[2023-08-05 20:51:03.064] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5043359994888306 ms
+[2023-08-05 20:51:03.601] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 201
+[2023-08-05 20:51:03.601] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.05 ms
+[2023-08-05 20:51:03.607] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.25849499925971 ms
+[2023-08-05 20:51:03.616] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:51:03.616] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.85 ms
+[2023-08-05 20:51:03.620] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.686040999367833 ms
+[2023-08-05 20:51:05.691] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:05.692] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.05 ms
+[2023-08-05 20:51:05.693] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 189
+[2023-08-05 20:51:05.694] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:05.696] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.53231200017035 ms
+[2023-08-05 20:51:05.701] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.906775999814272 ms
+[2023-08-05 20:51:05.705] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 43
+[2023-08-05 20:51:05.706] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.72 ms
+[2023-08-05 20:51:05.709] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.486530000343919 ms
+[2023-08-05 20:51:06.051] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 60
+[2023-08-05 20:51:06.052] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.26 ms
+[2023-08-05 20:51:06.055] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5788690000772476 ms
+[2023-08-05 20:51:06.292] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:06.293] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.33 ms
+[2023-08-05 20:51:06.297] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.088206000626087 ms
+[2023-08-05 20:51:06.480] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:06.480] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:51:06.484] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.946883000433445 ms
+[2023-08-05 20:51:06.645] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:06.645] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:06.650] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.106760999187827 ms
+[2023-08-05 20:51:06.790] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:06.791] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:06.794] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8208190016448498 ms
+[2023-08-05 20:51:07.450] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.451] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:07.455] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.145192999392748 ms
+[2023-08-05 20:51:07.491] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.491] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:07.494] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3429140001535416 ms
+[2023-08-05 20:51:07.530] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.531] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:07.534] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5952309984713793 ms
+[2023-08-05 20:51:07.570] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.571] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.39 ms
+[2023-08-05 20:51:07.574] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.326588999480009 ms
+[2023-08-05 20:51:07.610] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.611] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:51:07.614] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5804230011999607 ms
+[2023-08-05 20:51:07.650] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.650] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:51:07.654] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5982789993286133 ms
+[2023-08-05 20:51:07.692] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.692] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:51:07.696] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.491185000166297 ms
+[2023-08-05 20:51:07.730] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.730] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.59 ms
+[2023-08-05 20:51:07.734] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.54152699932456 ms
+[2023-08-05 20:51:07.770] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.770] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.41 ms
+[2023-08-05 20:51:07.773] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.437397999688983 ms
+[2023-08-05 20:51:07.809] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.810] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:07.814] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.619582999497652 ms
+[2023-08-05 20:51:07.849] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:07.849] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.36 ms
+[2023-08-05 20:51:07.853] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6489249989390373 ms
+[2023-08-05 20:51:08.016] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:08.017] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:51:08.021] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.162862999364734 ms
+[2023-08-05 20:51:08.186] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:08.187] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.95 ms
+[2023-08-05 20:51:08.191] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9676400013267994 ms
+[2023-08-05 20:51:08.336] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:08.336] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:51:08.340] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7612479999661446 ms
+[2023-08-05 20:51:08.486] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:08.486] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.94 ms
+[2023-08-05 20:51:08.491] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.17072899825871 ms
+[2023-08-05 20:51:08.846] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 10
+[2023-08-05 20:51:08.846] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:08.850] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5480519998818636 ms
+[2023-08-05 20:51:09.556] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:09.557] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:09.561] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9350669998675585 ms
+[2023-08-05 20:51:09.741] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:09.742] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:09.746] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.266678001731634 ms
+[2023-08-05 20:51:10.026] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:10.027] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:51:10.031] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.101686999201775 ms
+[2023-08-05 20:51:10.156] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:10.157] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:51:10.160] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.930833999067545 ms
+[2023-08-05 20:51:10.246] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:10.247] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:10.250] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3557519987225533 ms
+[2023-08-05 20:51:10.361] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:10.362] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:10.366] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.13433900102973 ms
+[2023-08-05 20:51:10.916] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:10.917] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.01 ms
+[2023-08-05 20:51:10.921] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.066338000819087 ms
+[2023-08-05 20:51:11.036] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.037] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.01 ms
+[2023-08-05 20:51:11.041] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1718799993395805 ms
+[2023-08-05 20:51:11.171] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.171] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.42 ms
+[2023-08-05 20:51:11.175] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.031055999919772 ms
+[2023-08-05 20:51:11.286] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.286] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.51 ms
+[2023-08-05 20:51:11.290] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5558560006320477 ms
+[2023-08-05 20:51:11.511] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.512] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.92 ms
+[2023-08-05 20:51:11.516] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.121607998386025 ms
+[2023-08-05 20:51:11.591] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.591] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.51 ms
+[2023-08-05 20:51:11.594] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3317300006747246 ms
+[2023-08-05 20:51:11.756] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:11.756] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:51:11.761] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.56479199975729 ms
+[2023-08-05 20:51:12.437] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:12.437] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.03 ms
+[2023-08-05 20:51:12.441] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.884459000080824 ms
+[2023-08-05 20:51:12.591] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 18
+[2023-08-05 20:51:12.592] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.93 ms
+[2023-08-05 20:51:12.596] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.064368000254035 ms
+[2023-08-05 20:51:12.676] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 19
+[2023-08-05 20:51:12.677] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:12.680] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8007079996168613 ms
+[2023-08-05 20:51:12.746] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:12.746] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.41 ms
+[2023-08-05 20:51:12.750] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6766870003193617 ms
+[2023-08-05 20:51:12.871] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:12.872] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.95 ms
+[2023-08-05 20:51:12.876] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.114517999812961 ms
+[2023-08-05 20:51:13.028] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:13.028] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:13.032] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.095839999616146 ms
+[2023-08-05 20:51:13.111] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:13.111] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:51:13.115] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.511541999876499 ms
+[2023-08-05 20:51:13.336] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:13.337] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.94 ms
+[2023-08-05 20:51:13.340] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6864679995924234 ms
+[2023-08-05 20:51:13.491] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:13.492] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:13.495] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.878515999764204 ms
+[2023-08-05 20:51:13.957] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 208
+[2023-08-05 20:51:13.958] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.03 ms
+[2023-08-05 20:51:13.963] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.832599001005292 ms
+[2023-08-05 20:51:13.978] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 44
+[2023-08-05 20:51:13.979] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.85 ms
+[2023-08-05 20:51:13.982] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.7659629993140697 ms
+[2023-08-05 20:51:18.937] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 21
+[2023-08-05 20:51:18.938] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:51:18.942] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.23136300034821 ms
+[2023-08-05 20:51:19.069] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.069] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:19.075] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.6717349998652935 ms
+[2023-08-05 20:51:19.076] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 41
+[2023-08-05 20:51:19.077] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.75 ms
+[2023-08-05 20:51:19.081] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.840216001495719 ms
+[2023-08-05 20:51:19.236] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.236] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.39 ms
+[2023-08-05 20:51:19.239] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.606250999495387 ms
+[2023-08-05 20:51:19.336] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.336] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:19.340] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.893233001232147 ms
+[2023-08-05 20:51:19.491] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.492] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:19.496] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.137835999950767 ms
+[2023-08-05 20:51:19.696] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.696] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:19.701] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.139554001390934 ms
+[2023-08-05 20:51:19.951] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:19.952] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.97 ms
+[2023-08-05 20:51:19.956] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.127702001482248 ms
+[2023-08-05 20:51:20.086] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.086] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:20.092] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.568378999829292 ms
+[2023-08-05 20:51:20.211] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.212] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:20.216] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.286543000489473 ms
+[2023-08-05 20:51:20.271] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.271] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.38 ms
+[2023-08-05 20:51:20.275] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8478230014443398 ms
+[2023-08-05 20:51:20.491] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.492] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:20.496] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.192596999928355 ms
+[2023-08-05 20:51:20.536] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.537] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:51:20.540] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.861948000267148 ms
+[2023-08-05 20:51:20.721] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.722] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.94 ms
+[2023-08-05 20:51:20.726] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1439410001039505 ms
+[2023-08-05 20:51:20.896] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:20.897] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:20.901] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.111929999664426 ms
+[2023-08-05 20:51:21.046] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:21.047] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.99 ms
+[2023-08-05 20:51:21.051] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.129852999001741 ms
+[2023-08-05 20:51:22.226] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:22.227] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.04 ms
+[2023-08-05 20:51:22.231] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9777199998497963 ms
+[2023-08-05 20:51:22.391] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:22.392] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:22.396] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.136695999652147 ms
+[2023-08-05 20:51:22.536] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:22.536] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:22.540] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.077554000541568 ms
+[2023-08-05 20:51:22.686] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:22.687] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.40 ms
+[2023-08-05 20:51:22.691] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.169345000758767 ms
+[2023-08-05 20:51:22.841] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:22.841] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.77 ms
+[2023-08-05 20:51:22.845] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.125233998522162 ms
+[2023-08-05 20:51:23.436] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:23.437] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:51:23.441] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.78396600112319 ms
+[2023-08-05 20:51:23.936] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:51:23.936] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:23.940] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.290046999230981 ms
+[2023-08-05 20:51:24.271] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:24.271] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.44 ms
+[2023-08-05 20:51:24.278] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 7.050375999882817 ms
+[2023-08-05 20:51:24.736] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:24.736] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:24.741] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.233932001516223 ms
+[2023-08-05 20:51:24.898] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:24.898] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:24.902] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.193125998601317 ms
+[2023-08-05 20:51:25.291] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:25.292] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:25.296] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.253544000908732 ms
+[2023-08-05 20:51:25.441] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:25.442] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:51:25.446] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.015998000279069 ms
+[2023-08-05 20:51:25.691] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:25.692] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:25.696] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.110200999304652 ms
+[2023-08-05 20:51:25.871] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:25.871] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:51:25.875] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.105861999094486 ms
+[2023-08-05 20:51:26.046] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.047] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:26.051] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.218477999791503 ms
+[2023-08-05 20:51:26.111] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.111] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.40 ms
+[2023-08-05 20:51:26.115] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.591509999707341 ms
+[2023-08-05 20:51:26.266] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.267] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:26.271] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7733989991247654 ms
+[2023-08-05 20:51:26.466] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.467] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:26.471] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9873679988086224 ms
+[2023-08-05 20:51:26.636] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.637] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:26.640] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9897100012749434 ms
+[2023-08-05 20:51:26.721] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.722] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:26.726] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.937813000753522 ms
+[2023-08-05 20:51:26.826] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.826] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:26.835] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 8.598618999123573 ms
+[2023-08-05 20:51:26.947] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:26.947] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:51:26.951] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.204450000077486 ms
+[2023-08-05 20:51:27.052] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.053] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:27.058] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.853395000100136 ms
+[2023-08-05 20:51:27.137] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.137] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:27.141] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5644910000264645 ms
+[2023-08-05 20:51:27.467] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.468] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:27.472] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.307343998923898 ms
+[2023-08-05 20:51:27.659] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.659] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:27.662] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.50203999876976 ms
+[2023-08-05 20:51:27.852] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.852] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:51:27.856] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.089371999725699 ms
+[2023-08-05 20:51:27.977] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:27.978] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:27.982] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.171863999217749 ms
+[2023-08-05 20:51:28.052] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:28.052] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.77 ms
+[2023-08-05 20:51:28.056] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3084039986133575 ms
+[2023-08-05 20:51:28.197] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:28.197] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:51:28.202] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.237390000373125 ms
+[2023-08-05 20:51:28.342] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:28.343] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:51:28.347] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.345979999750853 ms
+[2023-08-05 20:51:28.547] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:28.548] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:51:28.552] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.309793001040816 ms
+[2023-08-05 20:51:28.717] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:28.718] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:51:28.722] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.21955700032413 ms
+[2023-08-05 20:51:29.262] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.263] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:51:29.267] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.040906000882387 ms
+[2023-08-05 20:51:29.417] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.418] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:29.421] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8875799998641014 ms
+[2023-08-05 20:51:29.538] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.538] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.93 ms
+[2023-08-05 20:51:29.542] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.812943000346422 ms
+[2023-08-05 20:51:29.642] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.642] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:29.651] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 8.583509000018239 ms
+[2023-08-05 20:51:29.772] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.773] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:29.777] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.260076999664307 ms
+[2023-08-05 20:51:29.917] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:29.918] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:29.922] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.223377000540495 ms
+[2023-08-05 20:51:30.297] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:30.298] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:30.302] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.3109309989959 ms
+[2023-08-05 20:51:30.472] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:30.473] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:30.477] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.139004999771714 ms
+[2023-08-05 20:51:30.525] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:30.526] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:51:30.529] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3434299994260073 ms
+[2023-08-05 20:51:36.358] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.359] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.15 ms
+[2023-08-05 20:51:36.363] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.301101999357343 ms
+[2023-08-05 20:51:36.508] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.508] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.02 ms
+[2023-08-05 20:51:36.512] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1329270005226135 ms
+[2023-08-05 20:51:36.602] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.603] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:51:36.606] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8368850015103817 ms
+[2023-08-05 20:51:36.752] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.753] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.08 ms
+[2023-08-05 20:51:36.757] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.209723999723792 ms
+[2023-08-05 20:51:36.832] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.832] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.81 ms
+[2023-08-05 20:51:36.837] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1557270009070635 ms
+[2023-08-05 20:51:36.952] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:36.953] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:36.957] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2972520012408495 ms
+[2023-08-05 20:51:38.408] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 209
+[2023-08-05 20:51:38.409] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.09 ms
+[2023-08-05 20:51:38.414] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.863140000030398 ms
+[2023-08-05 20:51:38.428] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 46
+[2023-08-05 20:51:38.428] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.77 ms
+[2023-08-05 20:51:38.432] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.6452670004218817 ms
+[2023-08-05 20:51:52.385] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 21
+[2023-08-05 20:51:52.386] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.95 ms
+[2023-08-05 20:51:52.390] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 43
+[2023-08-05 20:51:52.391] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.76 ms
+[2023-08-05 20:51:52.391] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.61956699937582 ms
+[2023-08-05 20:51:52.394] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.711504999548197 ms
+[2023-08-05 20:51:52.558] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:52.558] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:51:52.562] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.146019000560045 ms
+[2023-08-05 20:51:52.828] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:52.828] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:51:52.832] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.132675999775529 ms
+[2023-08-05 20:51:53.098] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:53.098] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:53.102] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.11565800011158 ms
+[2023-08-05 20:51:53.323] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:53.324] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:53.327] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.944428000599146 ms
+[2023-08-05 20:51:53.443] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:53.443] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:51:53.448] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.074068000540137 ms
+[2023-08-05 20:51:53.843] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:53.843] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:53.847] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9789279997348785 ms
+[2023-08-05 20:51:53.983] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:53.983] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:53.987] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.147376000881195 ms
+[2023-08-05 20:51:54.078] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:54.078] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:51:54.082] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.544591998681426 ms
+[2023-08-05 20:51:54.208] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:54.208] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:54.212] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.531801000237465 ms
+[2023-08-05 20:51:54.333] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:54.333] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:54.337] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6719060000032187 ms
+[2023-08-05 20:51:54.463] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:54.463] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:54.467] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.105985000729561 ms
+[2023-08-05 20:51:55.078] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:55.078] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:51:55.082] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.065232999622822 ms
+[2023-08-05 20:51:55.278] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:55.278] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:51:55.282] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.587075000628829 ms
+[2023-08-05 20:51:55.813] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:51:55.814] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:51:55.818] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.063409999012947 ms
+[2023-08-05 20:52:01.699] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:01.699] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.97 ms
+[2023-08-05 20:52:01.703] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.071269998326898 ms
+[2023-08-05 20:52:02.673] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:02.674] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:52:02.680] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 6.386856999248266 ms
+[2023-08-05 20:52:04.978] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:04.979] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.94 ms
+[2023-08-05 20:52:04.983] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.482937000691891 ms
+[2023-08-05 20:52:05.148] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:05.148] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:05.152] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.093404000625014 ms
+[2023-08-05 20:52:05.478] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:05.478] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:05.483] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.630210999399424 ms
+[2023-08-05 20:52:06.074] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:06.075] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:06.079] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2688810005784035 ms
+[2023-08-05 20:52:06.293] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:06.294] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:06.297] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7101760003715754 ms
+[2023-08-05 20:52:06.544] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:06.544] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:06.548] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.146727999672294 ms
+[2023-08-05 20:52:07.104] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:07.104] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:07.109] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.447123000398278 ms
+[2023-08-05 20:52:07.214] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:07.214] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:07.218] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.052132999524474 ms
+[2023-08-05 20:52:08.934] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:08.935] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.08 ms
+[2023-08-05 20:52:08.939] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9905960001051426 ms
+[2023-08-05 20:52:09.154] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:09.154] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:09.159] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.091069001704454 ms
+[2023-08-05 20:52:09.389] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:09.390] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:09.394] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.264076000079513 ms
+[2023-08-05 20:52:10.084] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:10.084] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:10.088] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.152876999229193 ms
+[2023-08-05 20:52:10.489] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:10.490] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:52:10.494] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.153272001072764 ms
+[2023-08-05 20:52:10.679] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:10.680] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.94 ms
+[2023-08-05 20:52:10.684] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.310209000483155 ms
+[2023-08-05 20:52:10.804] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:10.805] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:10.809] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2337769996374846 ms
+[2023-08-05 20:52:11.069] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:11.070] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:52:11.074] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.385761000216007 ms
+[2023-08-05 20:52:11.254] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:11.254] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:52:11.258] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.58398300036788 ms
+[2023-08-05 20:52:11.459] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:11.459] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:52:11.463] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.041445000097156 ms
+[2023-08-05 20:52:11.569] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:11.569] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:11.574] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1587689984589815 ms
+[2023-08-05 20:52:12.129] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.129] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:12.133] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.220280000939965 ms
+[2023-08-05 20:52:12.224] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.225] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.99 ms
+[2023-08-05 20:52:12.229] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8264329992234707 ms
+[2023-08-05 20:52:12.364] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.364] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:12.368] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9160699993371964 ms
+[2023-08-05 20:52:12.589] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.589] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:52:12.594] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.225402999669313 ms
+[2023-08-05 20:52:12.709] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.709] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:12.713] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1301330011337996 ms
+[2023-08-05 20:52:12.759] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.759] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.77 ms
+[2023-08-05 20:52:12.763] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9377859998494387 ms
+[2023-08-05 20:52:12.954] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:12.954] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:52:12.958] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.236098000779748 ms
+[2023-08-05 20:52:13.433] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:13.434] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:13.438] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2242919988930225 ms
+[2023-08-05 20:52:13.684] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:13.684] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:52:13.688] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.284275000914931 ms
+[2023-08-05 20:52:14.132] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:14.133] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:14.137] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.207192000001669 ms
+[2023-08-05 20:52:14.729] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:14.729] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:14.734] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.407815000042319 ms
+[2023-08-05 20:52:15.284] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:15.284] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:15.288] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.020014999434352 ms
+[2023-08-05 20:52:16.279] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:16.280] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.91 ms
+[2023-08-05 20:52:16.284] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.289341999217868 ms
+[2023-08-05 20:52:17.435] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 209
+[2023-08-05 20:52:17.435] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.16 ms
+[2023-08-05 20:52:17.439] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.990266999229789 ms
+[2023-08-05 20:52:17.455] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 46
+[2023-08-05 20:52:17.455] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.85 ms
+[2023-08-05 20:52:17.459] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 4.007646998390555 ms
+[2023-08-05 20:52:31.022] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 21
+[2023-08-05 20:52:31.023] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.01 ms
+[2023-08-05 20:52:31.027] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 43
+[2023-08-05 20:52:31.028] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.75 ms
+[2023-08-05 20:52:31.028] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 5.824432000517845 ms
+[2023-08-05 20:52:31.031] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5700109992176294 ms
+[2023-08-05 20:52:31.295] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:31.295] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:31.299] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.568385001271963 ms
+[2023-08-05 20:52:31.380] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:31.380] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.97 ms
+[2023-08-05 20:52:31.385] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.103081000968814 ms
+[2023-08-05 20:52:31.535] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:31.536] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.19 ms
+[2023-08-05 20:52:31.540] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.1161470003426075 ms
+[2023-08-05 20:52:32.019] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.020] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:52:32.024] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.106056001037359 ms
+[2023-08-05 20:52:32.154] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.155] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:52:32.159] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.782956000417471 ms
+[2023-08-05 20:52:32.234] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.235] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:32.238] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.3533829990774393 ms
+[2023-08-05 20:52:32.410] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.410] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:52:32.414] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.231200000271201 ms
+[2023-08-05 20:52:32.569] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.570] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.96 ms
+[2023-08-05 20:52:32.574] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.181141000241041 ms
+[2023-08-05 20:52:32.745] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:32.745] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:32.749] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.237441999837756 ms
+[2023-08-05 20:52:33.079] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.080] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:33.084] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.147450000047684 ms
+[2023-08-05 20:52:33.239] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.240] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:33.243] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.513357000425458 ms
+[2023-08-05 20:52:33.404] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.405] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:52:33.409] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.296974999830127 ms
+[2023-08-05 20:52:33.569] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.570] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:33.574] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.20164299942553 ms
+[2023-08-05 20:52:33.729] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.730] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:33.734] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.04424599930644 ms
+[2023-08-05 20:52:33.884] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:33.885] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:52:33.889] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.254978999495506 ms
+[2023-08-05 20:52:34.044] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:34.045] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:52:34.049] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.222867000848055 ms
+[2023-08-05 20:52:34.204] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:34.205] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:34.209] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9980449993163347 ms
+[2023-08-05 20:52:34.374] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:34.375] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:52:34.378] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.742373000830412 ms
+[2023-08-05 20:52:34.919] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 11
+[2023-08-05 20:52:34.920] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:52:34.924] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.037412000820041 ms
+[2023-08-05 20:52:35.275] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:35.275] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:52:35.280] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.188377000391483 ms
+[2023-08-05 20:52:35.359] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:35.360] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:35.364] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7631939984858036 ms
+[2023-08-05 20:52:35.417] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:35.418] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.37 ms
+[2023-08-05 20:52:35.422] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.909408999606967 ms
+[2023-08-05 20:52:35.675] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:35.675] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:52:35.679] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.187734000384808 ms
+[2023-08-05 20:52:35.949] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:35.950] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:35.954] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.18558599986136 ms
+[2023-08-05 20:52:36.105] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.105] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:52:36.108] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.4786379989236593 ms
+[2023-08-05 20:52:36.289] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.290] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:52:36.294] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.394647998735309 ms
+[2023-08-05 20:52:36.449] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.450] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:52:36.454] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.307832999154925 ms
+[2023-08-05 20:52:36.739] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.740] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:36.744] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.099832998588681 ms
+[2023-08-05 20:52:36.854] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.855] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.79 ms
+[2023-08-05 20:52:36.859] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.089972998946905 ms
+[2023-08-05 20:52:36.964] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:36.965] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.76 ms
+[2023-08-05 20:52:36.968] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.734817000105977 ms
+[2023-08-05 20:52:37.095] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:37.095] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:52:37.099] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.778184000402689 ms
+[2023-08-05 20:52:38.090] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:38.090] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:52:38.094] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.175034999847412 ms
+[2023-08-05 20:52:39.040] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.040] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:39.045] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.358320999890566 ms
+[2023-08-05 20:52:39.188] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.188] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.55 ms
+[2023-08-05 20:52:39.192] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.361016999930143 ms
+[2023-08-05 20:52:39.409] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.410] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:39.414] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.254112999886274 ms
+[2023-08-05 20:52:39.560] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.561] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.87 ms
+[2023-08-05 20:52:39.565] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.083035001531243 ms
+[2023-08-05 20:52:39.660] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.660] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:39.664] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7748070005327463 ms
+[2023-08-05 20:52:39.894] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:39.895] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:39.899] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.139221001416445 ms
+[2023-08-05 20:52:40.035] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:40.035] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:52:40.039] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.113603999838233 ms
+[2023-08-05 20:52:40.155] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:40.155] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:40.159] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.006206000223756 ms
+[2023-08-05 20:52:40.245] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:40.245] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.81 ms
+[2023-08-05 20:52:40.249] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6767369993031025 ms
+[2023-08-05 20:52:40.314] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:40.315] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.47 ms
+[2023-08-05 20:52:40.318] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.732641000300646 ms
+[2023-08-05 20:52:40.353] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:40.353] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.52 ms
+[2023-08-05 20:52:40.357] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.7879900000989437 ms
+[2023-08-05 20:52:43.470] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:43.470] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.61 ms
+[2023-08-05 20:52:43.475] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.601720001548529 ms
+[2023-08-05 20:52:43.650] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:43.650] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:43.654] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.224362999200821 ms
+[2023-08-05 20:52:43.839] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:43.840] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:52:43.844] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.988900000229478 ms
+[2023-08-05 20:52:43.990] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:43.990] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:52:43.994] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.170041998848319 ms
+[2023-08-05 20:52:44.069] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:44.070] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.90 ms
+[2023-08-05 20:52:44.074] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.864072000607848 ms
+[2023-08-05 20:52:44.139] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:44.140] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.56 ms
+[2023-08-05 20:52:44.144] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.247014999389648 ms
+[2023-08-05 20:52:44.394] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:44.395] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.82 ms
+[2023-08-05 20:52:44.398] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.574897998943925 ms
+[2023-08-05 20:52:44.529] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 20
+[2023-08-05 20:52:44.530] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.86 ms
+[2023-08-05 20:52:44.534] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.148933000862598 ms
+[2023-08-05 20:52:44.917] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 209
+[2023-08-05 20:52:44.917] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.04 ms
+[2023-08-05 20:52:44.921] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9663430005311966 ms
+[2023-08-05 20:52:44.935] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 46
+[2023-08-05 20:52:44.935] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.37 ms
+[2023-08-05 20:52:44.939] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.8839129991829395 ms
+[2023-08-05 20:53:01.577] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:01.577] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.11 ms
+[2023-08-05 20:53:01.581] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.018335001543164 ms
+[2023-08-05 20:53:01.588] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 43
+[2023-08-05 20:53:01.588] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.33 ms
+[2023-08-05 20:53:01.592] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.605392001569271 ms
+[2023-08-05 20:53:01.830] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:01.830] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.39 ms
+[2023-08-05 20:53:01.835] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.213020000606775 ms
+[2023-08-05 20:53:01.975] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:01.976] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:53:01.980] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.139965001493692 ms
+[2023-08-05 20:53:02.086] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:02.086] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.89 ms
+[2023-08-05 20:53:02.090] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.972411001101136 ms
+[2023-08-05 20:53:09.682] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 216
+[2023-08-05 20:53:09.683] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 1.13 ms
+[2023-08-05 20:53:09.687] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.328702999278903 ms
+[2023-08-05 20:53:09.700] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 46
+[2023-08-05 20:53:09.700] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.95 ms
+[2023-08-05 20:53:09.704] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.9687450006604195 ms
+[2023-08-05 20:53:15.618] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:15.619] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.98 ms
+[2023-08-05 20:53:15.623] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 43
+[2023-08-05 20:53:15.623] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.73 ms
+[2023-08-05 20:53:15.624] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.763980999588966 ms
+[2023-08-05 20:53:15.628] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.90769200026989 ms
+[2023-08-05 20:53:15.677] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:15.677] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:53:15.681] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9613220002502203 ms
+[2023-08-05 20:53:15.797] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:15.797] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.88 ms
+[2023-08-05 20:53:15.801] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.106274999678135 ms
+[2023-08-05 20:53:16.466] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:16.467] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.43 ms
+[2023-08-05 20:53:16.470] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.714614000171423 ms
+[2023-08-05 20:53:16.851] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:16.852] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:53:16.855] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.5723209995776415 ms
+[2023-08-05 20:53:17.081] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.082] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.81 ms
+[2023-08-05 20:53:17.086] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.091103000566363 ms
+[2023-08-05 20:53:17.441] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.442] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:53:17.446] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.085927000269294 ms
+[2023-08-05 20:53:17.556] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.557] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:53:17.561] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.9526300001889467 ms
+[2023-08-05 20:53:17.701] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.702] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.93 ms
+[2023-08-05 20:53:17.706] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.195805000141263 ms
+[2023-08-05 20:53:17.801] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.802] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:53:17.806] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.8334479983896017 ms
+[2023-08-05 20:53:17.891] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:17.892] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.78 ms
+[2023-08-05 20:53:17.896] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.824268000200391 ms
+[2023-08-05 20:53:18.061] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:18.062] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.85 ms
+[2023-08-05 20:53:18.066] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.149591000750661 ms
+[2023-08-05 20:53:18.136] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:18.137] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:53:18.141] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.510700998827815 ms
+[2023-08-05 20:53:18.270] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:18.270] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.83 ms
+[2023-08-05 20:53:18.274] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.6907809991389513 ms
+[2023-08-05 20:53:18.581] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:18.582] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:53:18.586] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.2048279996961355 ms
+[2023-08-05 20:53:18.871] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:18.872] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.81 ms
+[2023-08-05 20:53:18.876] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.166604999452829 ms
+[2023-08-05 20:53:19.136] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:19.137] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.84 ms
+[2023-08-05 20:53:19.141] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 3.883509000763297 ms
+[2023-08-05 20:53:19.360] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn space:4qqlaTPwFI 27
+[2023-08-05 20:53:19.361] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', 'space:4qqlaTPwFI' ] - 0.80 ms
+[2023-08-05 20:53:19.365] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:4qqlaTPwFI' ] 4.285484999418259 ms
+[2023-08-05 20:55:12.498] [info]  (main) [ipc-api] ui:handleThemeChange [ 'dark' ] - 9.83 ms
+[2023-08-05 20:55:13.988] [info]  (main) [ipc-api] ui:handleThemeChange [ 'light' ] - 9.75 ms
+[2023-08-05 20:55:14.592] [info]  (main) [ipc-api] ui:handleThemeChange [ 'system' ] - 0.06 ms
+[2023-08-05 20:55:15.358] [info]  (main) [ipc-api] ui:handleThemeChange [ 'light' ] - 0.04 ms
+[2023-08-05 20:55:30.953] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 35
+[2023-08-05 20:55:30.953] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.99 ms
+[2023-08-05 20:55:30.959] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 6.212531998753548 ms
+[2023-08-05 20:55:31.008] [debug] (helper) WorkspaceSQLiteDB:onUpdate hNslaIQ9Xn undefined 37
+[2023-08-05 20:55:31.008] [info]  (helper) [async-api] db.applyDocUpdate [ 'hNslaIQ9Xn', null ] - 0.45 ms
+[2023-08-05 20:55:31.011] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.339316999539733 ms
+[2023-08-05 20:55:37.808] [info]  (helper) [async-api] db.getDefaultStorageLocation [] - 1.29 ms
+[2023-08-05 20:55:54.883] [info]  (helper) [SQLiteAdapter:primary] connected: /home/dob/.config/AFFiNE/workspaces/3WfIWw7J1C/storage.db
+[2023-08-05 20:55:54.884] [debug] (helper) WorkspaceSQLiteDB:setupListener 3WfIWw7J1C undefined undefined
+[2023-08-05 20:55:54.885] [info]  (helper) openWorkspaceDatabase [3WfIWw7J1C]
+[2023-08-05 20:55:54.885] [info]  (helper) [ensureSQLiteDB] db connection established 3WfIWw7J1C
+[2023-08-05 20:55:54.886] [info]  (helper) [async-api] db.getDocAsUpdates [ '3WfIWw7J1C', null ] - 28.75 ms
+[2023-08-05 20:55:54.888] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C undefined 643
+[2023-08-05 20:55:54.888] [info]  (helper) onSubdocs 3WfIWw7J1C undefined [ {} ]
+[2023-08-05 20:55:54.888] [debug] (helper) WorkspaceSQLiteDB:setupListener 3WfIWw7J1C space:3WfIWw7J1C-hello-world Pico printer
+[2023-08-05 20:55:54.889] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', null ] - 1.07 ms
+[2023-08-05 20:55:54.889] [info]  (helper) [async-api] db.getDocAsUpdates [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.06 ms
+[2023-08-05 20:55:54.891] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.0776200015097857 ms
+[2023-08-05 20:55:54.955] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 140260
+[2023-08-05 20:55:54.955] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 46.15 ms
+[2023-08-05 20:55:54.961] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 6.04126900061965 ms
+[2023-08-05 20:55:54.999] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C undefined 10
+[2023-08-05 20:55:54.999] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', null ] - 1.66 ms
+[2023-08-05 20:55:55.002] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ null ] 3.218231998383999 ms
+[2023-08-05 20:55:55.047] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', null ] - 3.90 ms
+[2023-08-05 20:55:55.063] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/27f983d0765289c19d10ee0b51c00c3c7665236a1a82406370d46e0a.gif'
+] - 0.43 ms
+[2023-08-05 20:55:55.064] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/1326bc48553a572c6756d9ee1b30a0dfdda26222fc2d2c872b14e609.gif'
+] - 0.74 ms
+[2023-08-05 20:55:55.065] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/28516717d63e469cd98729ff46be6595711898bab3dc43302319a987.gif'
+] - 0.44 ms
+[2023-08-05 20:55:55.066] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/9288be57321c8772d04e05dbb69a22742372b3534442607a2d6a9998.gif'
+] - 0.77 ms
+[2023-08-05 20:55:55.066] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/c820edeeba50006b531883903f5bb0b96bf523c9a6b3ce5868f03db5.gif'
+] - 1.10 ms
+[2023-08-05 20:55:55.068] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/e93536e1be97e3b5206d43bf0793fdef24e60044d174f0abdefebe08.gif'
+] - 0.48 ms
+[2023-08-05 20:55:55.068] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/047ebf2c9a5c7c9d8521c2ea5e6140ff7732ef9e28a9f944e9bf3ca4.png'
+] - 0.79 ms
+[2023-08-05 20:55:55.069] [info]  (helper) [async-api] db.getBlob [
+  '3WfIWw7J1C',
+  '/static/6aa785ee927547ce9dd9d7b43e01eac948337fe57571443e87bc3a60.png'
+] - 1.11 ms
+[2023-08-05 20:55:55.134] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 87
+[2023-08-05 20:55:55.134] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 1.06 ms
+[2023-08-05 20:55:55.136] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:55:55.136] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.77 ms
+[2023-08-05 20:55:55.137] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 89
+[2023-08-05 20:55:55.137] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.73 ms
+[2023-08-05 20:55:55.139] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:55:55.139] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.89 ms
+[2023-08-05 20:55:55.140] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:55:55.141] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.74 ms
+[2023-08-05 20:55:55.142] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 88
+[2023-08-05 20:55:55.142] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.71 ms
+[2023-08-05 20:55:55.143] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 89
+[2023-08-05 20:55:55.143] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.71 ms
+[2023-08-05 20:55:55.144] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:55:55.145] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.70 ms
+[2023-08-05 20:55:55.146] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 92
+[2023-08-05 20:55:55.146] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.80 ms
+[2023-08-05 20:55:55.147] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:55:55.148] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.75 ms
+[2023-08-05 20:55:55.149] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 91
+[2023-08-05 20:55:55.149] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 1.10 ms
+[2023-08-05 20:55:55.150] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 15.663310999050736 ms
+[2023-08-05 20:55:55.151] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 11.675987999886274 ms
+[2023-08-05 20:55:55.151] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 9.259782999753952 ms
+[2023-08-05 20:55:55.152] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 8.383198000490665 ms
+[2023-08-05 20:55:55.155] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', null ] - 2.20 ms
+[2023-08-05 20:55:55.155] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 10.50432899966836 ms
+[2023-08-05 20:55:55.156] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 9.658236999064684 ms
+[2023-08-05 20:55:55.159] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 11.775076000019908 ms
+[2023-08-05 20:55:55.163] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 13.314497999846935 ms
+[2023-08-05 20:55:55.174] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 38.258032999932766 ms
+[2023-08-05 20:55:55.179] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 38.68385599926114 ms
+[2023-08-05 20:55:55.196] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 58.522258998826146 ms
+[2023-08-05 20:56:53.956] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 89
+[2023-08-05 20:56:53.957] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 1.36 ms
+[2023-08-05 20:56:53.958] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:56:53.958] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.75 ms
+[2023-08-05 20:56:53.959] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:56:53.960] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.53 ms
+[2023-08-05 20:56:53.960] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 88
+[2023-08-05 20:56:53.960] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.44 ms
+[2023-08-05 20:56:53.961] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 89
+[2023-08-05 20:56:53.961] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.42 ms
+[2023-08-05 20:56:53.962] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:56:53.962] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.45 ms
+[2023-08-05 20:56:53.963] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 90
+[2023-08-05 20:56:53.963] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.53 ms
+[2023-08-05 20:56:53.963] [debug] (helper) WorkspaceSQLiteDB:onUpdate 3WfIWw7J1C space:3WfIWw7J1C-hello-world 91
+[2023-08-05 20:56:53.964] [info]  (helper) [async-api] db.applyDocUpdate [ '3WfIWw7J1C', 'space:3WfIWw7J1C-hello-world' ] - 0.44 ms
+[2023-08-05 20:56:53.964] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 7.557820001617074 ms
+[2023-08-05 20:56:53.967] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 5.573648000136018 ms
+[2023-08-05 20:56:53.970] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 8.238940000534058 ms
+[2023-08-05 20:56:53.976] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 13.422660000622272 ms
+[2023-08-05 20:56:53.983] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 18.87245799973607 ms
+[2023-08-05 20:56:53.995] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 36.963018998503685 ms
+[2023-08-05 20:56:54.016] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 56.708625998348 ms
+[2023-08-05 20:56:54.044] [debug] (helper) [SQLiteAdapter][primary] addUpdateToSQLite length: 1 docids [ 'space:3WfIWw7J1C-hello-world' ] 83.99896600097418 ms

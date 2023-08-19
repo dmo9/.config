@@ -1,0 +1,127 @@
+{
+  "border": "pixel",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 1,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "marks": [],
+  "name": "4: config",
+  "orientation": "horizontal",
+  "percent": 0.3333333333333334,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": 3,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 102,
+        "y": 99,
+        "width": 1156,
+        "height": 924
+      },
+      "layout": "splith",
+      "marks": [],
+      "name": "Code - OSS",
+      "orientation": "none",
+      "percent": 0.5,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "swallows": [
+        {
+          "class": "^code\\-oss$",
+          "instance": "^code\\-oss$"
+        }
+      ]
+    },
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splitv",
+      "marks": [],
+      "name": null,
+      "orientation": "vertical",
+      "percent": 0.5,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "pixel",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 749,
+            "height": 930
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "i3-resurrect - Thunar",
+          "orientation": "none",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^Thunar$",
+              "instance": "^thunar$"
+            }
+          ]
+        },
+        {
+          "border": "pixel",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 2386,
+            "height": 926
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "~",
+          "orientation": "none",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^kitty$",
+              "instance": "^kitty$"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

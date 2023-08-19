@@ -1,0 +1,173 @@
+{
+  "border": "normal",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 1,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "marks": [],
+  "name": "1",
+  "orientation": "horizontal",
+  "percent": 1.0,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": 2,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 1234,
+        "height": 976
+      },
+      "layout": "splith",
+      "marks": [],
+      "name": "Mozilla Firefox",
+      "orientation": "none",
+      "percent": 0.6,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "swallows": [
+        {
+          "class": "^firefox$",
+          "instance": "^Navigator$"
+        }
+      ]
+    },
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splitv",
+      "marks": [],
+      "name": null,
+      "orientation": "vertical",
+      "percent": 0.4,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "pixel",
+          "current_border_width": -1,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": null,
+          "orientation": "horizontal",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "nodes": [
+            {
+              "border": "pixel",
+              "current_border_width": -1,
+              "floating": "auto_off",
+              "fullscreen_mode": 0,
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "layout": "splith",
+              "marks": [],
+              "name": null,
+              "orientation": "horizontal",
+              "percent": 1.0,
+              "scratchpad_state": "none",
+              "sticky": false,
+              "type": "con",
+              "workspace_layout": "default",
+              "nodes": [
+                {
+                  "border": "pixel",
+                  "current_border_width": 2,
+                  "floating": "user_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 1,
+                    "y": 63,
+                    "width": 2558,
+                    "height": 1016
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "kitty.conf - Code - OSS",
+                  "orientation": "none",
+                  "percent": 1.0,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^code\\-oss$",
+                      "instance": "^code\\-oss$"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "border": "pixel",
+          "current_border_width": 2,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 809,
+            "height": 976
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "i3-resurrect save ~",
+          "orientation": "none",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^kitty$",
+              "instance": "^kitty$"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "command": [
+      "/usr/local/share/CHITUBOX"
+    ],
+    "working_directory": "/usr/local/share"
+  },
+  {
+    "command": [
+      "/usr/bin/thunar"
+    ],
+    "working_directory": "/home/dob"
+  },
+  {
+    "command": [
+      "/usr/bin/kitty"
+    ],
+    "working_directory": "/home/dob"
+  },
+  {
+    "command": [
+      "/usr/local/share/CHITUBOX"
+    ],
+    "working_directory": "/usr/local/share"
+  }
+]

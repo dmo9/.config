@@ -1,0 +1,22 @@
+[
+  {
+    "command": [
+      "/usr/lib/electron22/electron",
+      "--unity-launch",
+      "/usr/lib/code/code.js"
+    ],
+    "working_directory": "/home/dob"
+  },
+  {
+    "command": [
+      "/usr/bin/thunar"
+    ],
+    "working_directory": "/home/dob/.config"
+  },
+  {
+    "command": [
+      "/usr/bin/kitty"
+    ],
+    "working_directory": "/home/dob/.config"
+  }
+]

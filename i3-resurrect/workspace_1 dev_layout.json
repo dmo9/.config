@@ -1,0 +1,177 @@
+{
+  "border": "pixel",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 1,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "marks": [],
+  "name": "1: dev",
+  "orientation": "horizontal",
+  "percent": 1.0,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "none",
+      "current_border_width": 2,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 25,
+        "y": 25,
+        "width": 1245,
+        "height": 1030
+      },
+      "layout": "splith",
+      "marks": [],
+      "name": "host_config",
+      "orientation": "none",
+      "percent": 0.5458333333333332,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "swallows": [
+        {
+          "class": "^jetbrains\\-clion$",
+          "instance": "^jetbrains\\-clion$"
+        }
+      ]
+    },
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splitv",
+      "marks": [],
+      "name": null,
+      "orientation": "vertical",
+      "percent": 0.45416666666666683,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "pixel",
+          "current_border_width": -1,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": null,
+          "orientation": "horizontal",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "nodes": [
+            {
+              "border": "pixel",
+              "current_border_width": 2,
+              "floating": "auto_off",
+              "fullscreen_mode": 0,
+              "geometry": {
+                "x": 1292,
+                "y": 552,
+                "width": 1231,
+                "height": 471
+              },
+              "layout": "splith",
+              "marks": [],
+              "name": "Terminal - host_config",
+              "orientation": "none",
+              "percent": 0.5,
+              "scratchpad_state": "none",
+              "sticky": false,
+              "type": "con",
+              "workspace_layout": "default",
+              "swallows": [
+                {
+                  "class": "^jetbrains\\-clion$",
+                  "instance": "^jetbrains\\-clion$"
+                }
+              ]
+            },
+            {
+              "border": "pixel",
+              "current_border_width": 2,
+              "floating": "auto_off",
+              "fullscreen_mode": 0,
+              "geometry": {
+                "x": 1292,
+                "y": 27,
+                "width": 603,
+                "height": 471
+              },
+              "layout": "splith",
+              "marks": [],
+              "name": "TODO - host_config",
+              "orientation": "none",
+              "percent": 0.5,
+              "scratchpad_state": "none",
+              "sticky": false,
+              "type": "con",
+              "workspace_layout": "default",
+              "swallows": [
+                {
+                  "class": "^jetbrains\\-clion$",
+                  "instance": "^jetbrains\\-clion$"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "border": "pixel",
+          "current_border_width": 2,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 1929,
+            "y": 27,
+            "width": 594,
+            "height": 471
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "CMake - host_config",
+          "orientation": "none",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "command": [
+      "/usr/lib/firefox/firefox",
+      "localhost:3000",
+      "-P",
+      "no-tabs-or-search-bar"
+    ],
+    "working_directory": "/home/dob"
+  }
+]

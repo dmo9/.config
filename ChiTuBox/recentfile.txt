@@ -1,0 +1,3 @@
+/home/dob/workspaces/3d_printer/stls/Rook.stl
+/home/dob/stls/Rook.stl
+/home/dob/.config/ChiTuBox/__autosave__70432.chitubox

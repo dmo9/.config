@@ -1,0 +1,223 @@
+{
+  "border": "pixel",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 1,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "marks": [],
+  "name": "2",
+  "orientation": "horizontal",
+  "percent": null,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splith",
+      "marks": [],
+      "name": null,
+      "orientation": "horizontal",
+      "percent": 0.5416861826697893,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "none",
+          "current_border_width": 2,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 2,
+            "y": 65,
+            "width": 2556,
+            "height": 1013
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "host_config \u2013 config.fish",
+          "orientation": "none",
+          "percent": 1.0,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splitv",
+      "marks": [],
+      "name": null,
+      "orientation": "vertical",
+      "percent": 0.45831381733021076,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "pixel",
+          "current_border_width": -1,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "layout": "tabbed",
+          "marks": [],
+          "name": null,
+          "orientation": "horizontal",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "nodes": [
+            {
+              "border": "pixel",
+              "current_border_width": -1,
+              "floating": "auto_off",
+              "fullscreen_mode": 0,
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "layout": "splith",
+              "marks": [],
+              "name": null,
+              "orientation": "horizontal",
+              "percent": 1.0,
+              "scratchpad_state": "none",
+              "sticky": false,
+              "type": "con",
+              "workspace_layout": "default",
+              "nodes": [
+                {
+                  "border": "pixel",
+                  "current_border_width": 2,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 476,
+                    "height": 983
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "~",
+                  "orientation": "none",
+                  "percent": 0.5,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^kitty$",
+                      "instance": "^kitty$"
+                    }
+                  ]
+                },
+                {
+                  "border": "pixel",
+                  "current_border_width": 2,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 2,
+                    "y": 65,
+                    "width": 2546,
+                    "height": 983
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "TODO - host_config",
+                  "orientation": "none",
+                  "percent": 0.5,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^jetbrains\\-clion$",
+                      "instance": "^jetbrains\\-clion$"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "border": "pixel",
+          "current_border_width": 2,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 2,
+            "y": 65,
+            "width": 2546,
+            "height": 983
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "CMake - host_config",
+          "orientation": "none",
+          "percent": 0.5,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

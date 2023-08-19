@@ -1,0 +1,15 @@
+[Added Associations]
+application/x-shellscript=sublime_text.desktop;
+image/png=code-oss.desktop;firefox.desktop;
+application/xml=sublime_text.desktop;
+application/octet-stream=code-oss.desktop;
+application/x-zerosize=code-oss.desktop;
+application/x-lz4=code-oss.desktop;
+text/x-chdr=code-oss.desktop;
+text/x-csrc=code-oss.desktop;
+
+[Default Applications]
+image/png=firefox.desktop
+application/octet-stream=code-oss.desktop
+application/x-zerosize=code-oss.desktop
+application/x-lz4=code-oss.desktop
