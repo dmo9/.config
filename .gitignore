@@ -1,15 +1,18 @@
-yay/*
-.git/*
-AFFINE/*
-cef_user_data/*
-Code - OSS/*
+.git
+AFFINE
+cef_user_data
+ChiTuBox
+Code - OSS
 configstore
 dconf
 Electron
 fontconfig
 JetBrains
-jgit/*
+gtk.-3.0
+jgit
 kwalletrc
-minmeapps.list
+mimeapps.list
 QtProject.conf
 Trolltech.conf
+xfce4
+yay
