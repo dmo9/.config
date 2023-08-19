@@ -14,5 +14,5 @@ if status is-interactive
     bind \cH backward-kill-word #ctrl-backspace to delete an entire word
 
     # add a desktop image at startup
-    ~/.fehbg &;
+    ~/.fehbg &
 end
