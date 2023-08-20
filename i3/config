@@ -6,7 +6,7 @@ set $terminal kitty
 
 
 # set gaps between the windows & edge of the screen 
-gaps inner 40 px
+gaps inner 30 px
 gaps left 30 px
 gaps right 60 px
 gaps top 15 px

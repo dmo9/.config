@@ -13,7 +13,7 @@
   "marks": [],
   "name": "1: dev",
   "orientation": "horizontal",
-  "percent": 0.25,
+  "percent": 0.15,
   "scratchpad_state": "none",
   "sticky": false,
   "type": "workspace",
@@ -32,7 +32,7 @@
       },
       "layout": "splith",
       "marks": [],
-      "name": "host_config",
+      "name": "host_compression \u2013 main.c",
       "orientation": "none",
       "percent": 0.5219123505976095,
       "scratchpad_state": "none",
@@ -90,28 +90,78 @@
           "nodes": [
             {
               "border": "pixel",
-              "current_border_width": 3,
+              "current_border_width": -1,
               "floating": "auto_off",
               "fullscreen_mode": 0,
               "geometry": {
                 "x": 0,
                 "y": 0,
-                "width": 2384,
-                "height": 924
+                "width": 0,
+                "height": 0
               },
-              "layout": "splith",
+              "layout": "tabbed",
               "marks": [],
-              "name": "~",
-              "orientation": "none",
-              "percent": 0.6608806096528372,
+              "name": null,
+              "orientation": "horizontal",
+              "percent": 0.6608806096528366,
               "scratchpad_state": "none",
               "sticky": false,
               "type": "con",
               "workspace_layout": "default",
-              "swallows": [
+              "nodes": [
                 {
-                  "class": "^kitty$",
-                  "instance": "^kitty$"
+                  "border": "pixel",
+                  "current_border_width": 3,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 2384,
+                    "height": 924
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "~",
+                  "orientation": "none",
+                  "percent": 0.5,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^kitty$",
+                      "instance": "^kitty$"
+                    }
+                  ]
+                },
+                {
+                  "border": "pixel",
+                  "current_border_width": 3,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1184,
+                    "height": 454
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "dob - Thunar",
+                  "orientation": "none",
+                  "percent": 0.5,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^Thunar$",
+                      "instance": "^thunar$"
+                    }
+                  ]
                 }
               ]
             },
@@ -128,9 +178,9 @@
               },
               "layout": "splith",
               "marks": [],
-              "name": "TODO - host_config",
+              "name": "TODO - host_compression",
               "orientation": "none",
-              "percent": 0.3391193903471638,
+              "percent": 0.3391193903471635,
               "scratchpad_state": "none",
               "sticky": false,
               "type": "con",
@@ -157,7 +207,7 @@
           },
           "layout": "splith",
           "marks": [],
-          "name": "CMake - host_config",
+          "name": "CMake - host_compression",
           "orientation": "none",
           "percent": 0.5990099009900991,
           "scratchpad_state": "none",

@@ -89,7 +89,13 @@
     "command": [
       "/usr/bin/kitty"
     ],
-    "working_directory": "/home/dob"
+    "working_directory": "/home/dob/CLionProjecta"
+  },
+  {
+    "command": [
+      "/usr/bin/thunar"
+    ],
+    "working_directory": "/home/dob/CLionProjects"
   },
   {
     "command": [
