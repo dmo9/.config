@@ -13,7 +13,7 @@
   "marks": [],
   "name": "1: dev",
   "orientation": "horizontal",
-  "percent": 0.15,
+  "percent": 0.16666666666666666,
   "scratchpad_state": "none",
   "sticky": false,
   "type": "workspace",
@@ -25,16 +25,16 @@
       "floating": "auto_off",
       "fullscreen_mode": 0,
       "geometry": {
-        "x": 25,
-        "y": 25,
-        "width": 1245,
-        "height": 1030
+        "x": 1292,
+        "y": 27,
+        "width": 603,
+        "height": 471
       },
       "layout": "splith",
       "marks": [],
-      "name": "host_compression \u2013 main.c",
+      "name": "host_compression \u2013 CMakeLists.txt",
       "orientation": "none",
-      "percent": 0.5219123505976095,
+      "percent": 0.5323298079152474,
       "scratchpad_state": "none",
       "sticky": false,
       "type": "con",
@@ -61,7 +61,7 @@
       "marks": [],
       "name": null,
       "orientation": "vertical",
-      "percent": 0.4780876494023905,
+      "percent": 0.4676701920847526,
       "scratchpad_state": "none",
       "sticky": false,
       "type": "con",
@@ -82,7 +82,7 @@
           "marks": [],
           "name": null,
           "orientation": "horizontal",
-          "percent": 0.4009900990099009,
+          "percent": 0.5,
           "scratchpad_state": "none",
           "sticky": false,
           "type": "con",
@@ -90,78 +90,28 @@
           "nodes": [
             {
               "border": "pixel",
-              "current_border_width": -1,
+              "current_border_width": 3,
               "floating": "auto_off",
               "fullscreen_mode": 0,
               "geometry": {
-                "x": 0,
-                "y": 0,
-                "width": 0,
-                "height": 0
+                "x": 60,
+                "y": 85,
+                "width": 2404,
+                "height": 944
               },
-              "layout": "tabbed",
+              "layout": "splith",
               "marks": [],
-              "name": null,
-              "orientation": "horizontal",
-              "percent": 0.6608806096528366,
+              "name": "~",
+              "orientation": "none",
+              "percent": 0.6212121212121212,
               "scratchpad_state": "none",
               "sticky": false,
               "type": "con",
               "workspace_layout": "default",
-              "nodes": [
+              "swallows": [
                 {
-                  "border": "pixel",
-                  "current_border_width": 3,
-                  "floating": "auto_off",
-                  "fullscreen_mode": 0,
-                  "geometry": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 2384,
-                    "height": 924
-                  },
-                  "layout": "splith",
-                  "marks": [],
-                  "name": "~",
-                  "orientation": "none",
-                  "percent": 0.5,
-                  "scratchpad_state": "none",
-                  "sticky": false,
-                  "type": "con",
-                  "workspace_layout": "default",
-                  "swallows": [
-                    {
-                      "class": "^kitty$",
-                      "instance": "^kitty$"
-                    }
-                  ]
-                },
-                {
-                  "border": "pixel",
-                  "current_border_width": 3,
-                  "floating": "auto_off",
-                  "fullscreen_mode": 0,
-                  "geometry": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 1184,
-                    "height": 454
-                  },
-                  "layout": "splith",
-                  "marks": [],
-                  "name": "dob - Thunar",
-                  "orientation": "none",
-                  "percent": 0.5,
-                  "scratchpad_state": "none",
-                  "sticky": false,
-                  "type": "con",
-                  "workspace_layout": "default",
-                  "swallows": [
-                    {
-                      "class": "^Thunar$",
-                      "instance": "^thunar$"
-                    }
-                  ]
+                  "class": "^kitty$",
+                  "instance": "^kitty$"
                 }
               ]
             },
@@ -171,24 +121,24 @@
               "floating": "auto_off",
               "fullscreen_mode": 0,
               "geometry": {
-                "x": 1292,
-                "y": 27,
-                "width": 603,
-                "height": 471
+                "x": 60,
+                "y": 85,
+                "width": 1184,
+                "height": 944
               },
               "layout": "splith",
               "marks": [],
-              "name": "TODO - host_compression",
+              "name": "projects - Thunar",
               "orientation": "none",
-              "percent": 0.3391193903471635,
+              "percent": 0.3787878787878787,
               "scratchpad_state": "none",
               "sticky": false,
               "type": "con",
               "workspace_layout": "default",
               "swallows": [
                 {
-                  "class": "^jetbrains\\-clion$",
-                  "instance": "^jetbrains\\-clion$"
+                  "class": "^Thunar$",
+                  "instance": "^thunar$"
                 }
               ]
             }
@@ -200,16 +150,16 @@
           "floating": "auto_off",
           "fullscreen_mode": 0,
           "geometry": {
-            "x": 1292,
-            "y": 552,
-            "width": 1231,
-            "height": 471
+            "x": 1283,
+            "y": 478,
+            "width": 1174,
+            "height": 524
           },
           "layout": "splith",
           "marks": [],
-          "name": "CMake - host_compression",
+          "name": "Debug - host_compression",
           "orientation": "none",
-          "percent": 0.5990099009900991,
+          "percent": 0.5,
           "scratchpad_state": "none",
           "sticky": false,
           "type": "con",

@@ -13,7 +13,7 @@
   "marks": [],
   "name": "3: wiki",
   "orientation": "horizontal",
-  "percent": null,
+  "percent": 0.3333333333333333,
   "scratchpad_state": "none",
   "sticky": false,
   "type": "workspace",
@@ -32,7 +32,7 @@
       },
       "layout": "splith",
       "marks": [],
-      "name": "8/17/23 | Dob Engineering \u2014 Mozilla Firefox",
+      "name": "Edit 8/17/23 | Dob Engineering \u2014 Mozilla Firefox",
       "orientation": "none",
       "percent": 1.0,
       "scratchpad_state": "none",
@@ -43,6 +43,64 @@
         {
           "class": "^firefox$",
           "instance": "^Navigator$"
+        }
+      ]
+    }
+  ],
+  "floating_nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "splith",
+      "marks": [],
+      "name": null,
+      "orientation": "horizontal",
+      "percent": null,
+      "scratchpad_state": "fresh",
+      "sticky": false,
+      "type": "floating_con",
+      "workspace_layout": "default",
+      "rect": {
+        "x": 625,
+        "y": 155,
+        "width": 1280,
+        "height": 810
+      },
+      "nodes": [
+        {
+          "border": "pixel",
+          "current_border_width": 3,
+          "floating": "user_on",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 1184,
+            "height": 984
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "i3: i3 User\u2019s Guide \u2014 Mozilla Firefox",
+          "orientation": "none",
+          "percent": 1.0,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^firefox$",
+              "instance": "^Navigator$"
+            }
+          ]
         }
       ]
     }

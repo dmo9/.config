@@ -2,6 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export DISPLAY:\x3a0\x2e0
 SETUVAR --export --path FREERTOS_KERNEL_PATH:/usr/local/FreeRTOS\x2dKernel
+SETUVAR --export --path LD_LIBRARY_PATH:/usr/local/share/lib
 SETUVAR --export LD_LIBRARY_PATH_OG:/usr/local/share/lib
 SETUVAR --export --path PICO_SDK_PATH:/usr/local/pico\x2dsdk
 SETUVAR --export WIFI_PWD:\x1d

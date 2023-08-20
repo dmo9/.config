@@ -7,5 +7,11 @@
       "no-tabs-or-search-bar"
     ],
     "working_directory": "/home/dob"
+  },
+  {
+    "command": [
+      "/usr/lib/firefox/firefox"
+    ],
+    "working_directory": "/home/dob"
   }
 ]
