@@ -9,18 +9,12 @@
     "command": [
       "/usr/bin/thunar"
     ],
-    "working_directory": "/home/dob"
+    "working_directory": "/home/dob/workspaces/3d_printer/stls"
   },
   {
     "command": [
       "/usr/bin/kitty"
     ],
-    "working_directory": "/home/dob"
-  },
-  {
-    "command": [
-      "/usr/local/share/CHITUBOX"
-    ],
-    "working_directory": "/usr/local/share"
+    "working_directory": "/home/dob/workspaces/3d_printer"
   }
 ]

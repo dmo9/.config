@@ -6,7 +6,7 @@ if status is-interactive
     abbr -a -- pu 'sudo pacman -Syu'
     abbr -a -- pr 'sudo pacman -R'
     abbr -a -- cl 'clear'
-    abbr -a -- sl 'systemctl suspend2'
+    abbr -a -- sl 'systemctl suspend'
 
     
 
