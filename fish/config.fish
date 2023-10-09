@@ -15,4 +15,7 @@ if status is-interactive
 
     # add a desktop image at startup
     ~/.fehbg &
+
+    # autostart a disk mount utility
+    udiskie &
 end

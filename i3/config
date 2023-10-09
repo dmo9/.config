@@ -110,24 +110,17 @@ bindsym $mod+a focus parent
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1: dev"
-set $ws2 "2: browser"
-set $ws3 "3: wiki"
-set $ws4 "4: config"
-set $ws5 "5: 3d printer"
-set $ws6 "6"
-set $ws7 "7"
-set $ws8 "8"
-set $ws9 "9"
-set $ws10 "10"
+set $ws2 "2: config"
+set $ws3 "3: 3d printer"
+set $ws4 "4: logic analysis"
+# set $ws5 "5: spare"
 
 # switch workspaces
 bindsym $mod+1 workspace $ws1
 bindsym $mod+2 workspace $ws2
 bindsym $mod+3 workspace $ws3
 bindsym $mod+4 workspace $ws4
-bindsym $mod+5 workspace $ws5
-bindsym $mod+6 workspace $ws6
-bindsym $mod+7 workspace $ws7
+# bindsym $mod+5 workspace $ws5
 
 
 # add additional bindings for the numpad keys. Mod2 is num lock
@@ -135,21 +128,15 @@ bindsym $mod+mod2+KP_1 workspace $ws1
 bindsym $mod+mod2+KP_2 workspace $ws2
 bindsym $mod+mod2+KP_3 workspace $ws3
 bindsym $mod+mod2+KP_4 workspace $ws4
-bindsym $mod+mod2+KP_5 workspace $ws5
-bindsym $mod+mod2+KP_6 workspace $ws6
-bindsym $mod+mod2+KP_7 workspace $ws7
-
-# bindsym $mod+mod2+Return exec "thunar"
+# bindsym $mod+mod2+KP_5 workspace $ws5
 
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
 bindsym $mod+Shift+2 move container to workspace $ws2
 bindsym $mod+Shift+3 move container to workspace $ws3
-bindsym $mod+Shift+4 move container to workspace $ws4
-bindsym $mod+Shift+5 move container to workspace $ws5
-bindsym $mod+Shift+6 move container to workspace $ws6
-bindsym $mod+Shift+7 move container to workspace $ws7
+# bindsym $mod+Shift+4 move container to workspace $ws4
+# bindsym $mod+Shift+5 move container to workspace $ws5
 
 # reload the configuration file
 bindsym $mod+Shift+z reload

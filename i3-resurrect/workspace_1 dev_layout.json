@@ -9,43 +9,16 @@
     "width": 0,
     "height": 0
   },
-  "layout": "splith",
+  "layout": "splitv",
   "marks": [],
   "name": "1: dev",
-  "orientation": "horizontal",
-  "percent": 0.16666666666666666,
+  "orientation": "vertical",
+  "percent": null,
   "scratchpad_state": "none",
   "sticky": false,
   "type": "workspace",
   "workspace_layout": "default",
   "nodes": [
-    {
-      "border": "none",
-      "current_border_width": 3,
-      "floating": "auto_off",
-      "fullscreen_mode": 0,
-      "geometry": {
-        "x": 1292,
-        "y": 27,
-        "width": 603,
-        "height": 471
-      },
-      "layout": "splith",
-      "marks": [],
-      "name": "host_compression \u2013 CMakeLists.txt",
-      "orientation": "none",
-      "percent": 0.5323298079152474,
-      "scratchpad_state": "none",
-      "sticky": false,
-      "type": "con",
-      "workspace_layout": "default",
-      "swallows": [
-        {
-          "class": "^jetbrains\\-clion$",
-          "instance": "^jetbrains\\-clion$"
-        }
-      ]
-    },
     {
       "border": "pixel",
       "current_border_width": -1,
@@ -57,16 +30,97 @@
         "width": 0,
         "height": 0
       },
-      "layout": "splitv",
+      "layout": "splith",
       "marks": [],
       "name": null,
-      "orientation": "vertical",
-      "percent": 0.4676701920847526,
+      "orientation": "horizontal",
+      "percent": 1.0,
       "scratchpad_state": "none",
       "sticky": false,
       "type": "con",
       "workspace_layout": "default",
       "nodes": [
+        {
+          "border": "none",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 60,
+            "y": 85,
+            "width": 1280,
+            "height": 950
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "host_compression \u2013 main.c",
+          "orientation": "none",
+          "percent": 0.2702429149797572,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        },
+        {
+          "border": "none",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 60,
+            "y": 85,
+            "width": 1290,
+            "height": 950
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "host_compression \u2013 main.c",
+          "orientation": "none",
+          "percent": 0.25,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        },
+        {
+          "border": "pixel",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 63,
+            "y": 578,
+            "width": 2394,
+            "height": 424
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "TODO - host_compression",
+          "orientation": "none",
+          "percent": 0.25,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^jetbrains\\-clion$",
+              "instance": "^jetbrains\\-clion$"
+            }
+          ]
+        },
         {
           "border": "pixel",
           "current_border_width": -1,
@@ -78,11 +132,11 @@
             "width": 0,
             "height": 0
           },
-          "layout": "splith",
+          "layout": "splitv",
           "marks": [],
           "name": null,
-          "orientation": "horizontal",
-          "percent": 0.5,
+          "orientation": "vertical",
+          "percent": 0.2297570850202429,
           "scratchpad_state": "none",
           "sticky": false,
           "type": "con",
@@ -90,84 +144,130 @@
           "nodes": [
             {
               "border": "pixel",
-              "current_border_width": 3,
+              "current_border_width": -1,
               "floating": "auto_off",
               "fullscreen_mode": 0,
               "geometry": {
-                "x": 60,
-                "y": 85,
-                "width": 2404,
-                "height": 944
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
               },
               "layout": "splith",
               "marks": [],
-              "name": "~",
-              "orientation": "none",
-              "percent": 0.6212121212121212,
+              "name": null,
+              "orientation": "horizontal",
+              "percent": 1.0,
               "scratchpad_state": "none",
               "sticky": false,
               "type": "con",
               "workspace_layout": "default",
-              "swallows": [
+              "nodes": [
                 {
-                  "class": "^kitty$",
-                  "instance": "^kitty$"
+                  "border": "pixel",
+                  "current_border_width": 3,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 60,
+                    "y": 85,
+                    "width": 1184,
+                    "height": 944
+                  },
+                  "layout": "splith",
+                  "marks": [],
+                  "name": "projects - Thunar",
+                  "orientation": "none",
+                  "percent": 0.3766519823788547,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "swallows": [
+                    {
+                      "class": "^Thunar$",
+                      "instance": "^thunar$"
+                    }
+                  ]
+                },
+                {
+                  "border": "pixel",
+                  "current_border_width": -1,
+                  "floating": "auto_off",
+                  "fullscreen_mode": 0,
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "layout": "splitv",
+                  "marks": [],
+                  "name": null,
+                  "orientation": "vertical",
+                  "percent": 0.6233480176211453,
+                  "scratchpad_state": "none",
+                  "sticky": false,
+                  "type": "con",
+                  "workspace_layout": "default",
+                  "nodes": [
+                    {
+                      "border": "pixel",
+                      "current_border_width": 3,
+                      "floating": "auto_off",
+                      "fullscreen_mode": 0,
+                      "geometry": {
+                        "x": 60,
+                        "y": 85,
+                        "width": 2404,
+                        "height": 944
+                      },
+                      "layout": "splith",
+                      "marks": [],
+                      "name": "~/w/d/projects",
+                      "orientation": "none",
+                      "percent": 0.5594059405940595,
+                      "scratchpad_state": "none",
+                      "sticky": false,
+                      "type": "con",
+                      "workspace_layout": "default",
+                      "swallows": [
+                        {
+                          "class": "^kitty$",
+                          "instance": "^kitty$"
+                        }
+                      ]
+                    },
+                    {
+                      "border": "pixel",
+                      "current_border_width": 3,
+                      "floating": "auto_off",
+                      "fullscreen_mode": 0,
+                      "geometry": {
+                        "x": 1363,
+                        "y": 578,
+                        "width": 1094,
+                        "height": 424
+                      },
+                      "layout": "splith",
+                      "marks": [],
+                      "name": "TODO - host_compression",
+                      "orientation": "none",
+                      "percent": 0.44059405940594054,
+                      "scratchpad_state": "none",
+                      "sticky": false,
+                      "type": "con",
+                      "workspace_layout": "default",
+                      "swallows": [
+                        {
+                          "class": "^jetbrains\\-clion$",
+                          "instance": "^jetbrains\\-clion$"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
-            },
-            {
-              "border": "pixel",
-              "current_border_width": 3,
-              "floating": "auto_off",
-              "fullscreen_mode": 0,
-              "geometry": {
-                "x": 60,
-                "y": 85,
-                "width": 1184,
-                "height": 944
-              },
-              "layout": "splith",
-              "marks": [],
-              "name": "projects - Thunar",
-              "orientation": "none",
-              "percent": 0.3787878787878787,
-              "scratchpad_state": "none",
-              "sticky": false,
-              "type": "con",
-              "workspace_layout": "default",
-              "swallows": [
-                {
-                  "class": "^Thunar$",
-                  "instance": "^thunar$"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "border": "pixel",
-          "current_border_width": 3,
-          "floating": "auto_off",
-          "fullscreen_mode": 0,
-          "geometry": {
-            "x": 1283,
-            "y": 478,
-            "width": 1174,
-            "height": 524
-          },
-          "layout": "splith",
-          "marks": [],
-          "name": "Debug - host_compression",
-          "orientation": "none",
-          "percent": 0.5,
-          "scratchpad_state": "none",
-          "sticky": false,
-          "type": "con",
-          "workspace_layout": "default",
-          "swallows": [
-            {
-              "class": "^jetbrains\\-clion$",
-              "instance": "^jetbrains\\-clion$"
             }
           ]
         }
