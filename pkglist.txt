@@ -39,6 +39,7 @@ neofetch
 notification-daemon
 npm
 nvidia
+ntfs-3g
 openssh
 pacman-contrib
 pipewire
