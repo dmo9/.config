@@ -1,2 +1,0 @@
-numlockx &
-exec window manager
