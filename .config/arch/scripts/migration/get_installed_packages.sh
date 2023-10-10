@@ -6,8 +6,8 @@
 # See https://wiki.archlinux.org/title/migrate_installation_to_new_hardware#Bottom_to_top
 # for more details 
 
-pacman -Qqen > pkglist.txt
-pacman -Qqem > pkglist_aur.txt
+pacman -Qqen > ~/.config/arch/pkglist.txt
+pacman -Qqem > ~/.config/arch/pkglist_aur.txt
 
 
 

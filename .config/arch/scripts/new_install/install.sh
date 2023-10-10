@@ -18,6 +18,13 @@ read -s password
 echo
 iwctl --passphrase $password station wlan0 connect $ssid
 sleep 3
-echo
-echo Getting the latest archinstall config file from github
+
+# get the latest version of our linux configuration repo which contains all other scripts 
+# & configuration files which should be copied to the new ~/.config folder   
+cd /mnt
+git clone https://github.com/dmo9/linux_config
+
+
+# start the arch install with the latest configuration file 
+cd /mnt/linux_config/.config/arch
 archinstall --config user_configuration.json

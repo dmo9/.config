@@ -1,8 +1,12 @@
+aurutils
 chitubox-free-bin
 clion
 clion-jre
 digilent.waveforms
 openocd-picoprobe
+pantheon-dock-git
 raspberry-pico-sdk-git
+switchboard-plug-pantheon-tweaks-git
+urutau-icons-git
 yay
 zeal-git
