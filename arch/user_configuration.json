@@ -3,6 +3,7 @@
     "archinstall-language": "English",
     "bootloader": "Grub",
     "config_version": "2.6.0",
+    "custom-commands": ["chsh -s /usr/bin/fish"],
     "debug": false,
     "disk_config": {
         "config_type": "manual_partitioning",
