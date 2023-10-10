@@ -1,0 +1,8 @@
+chitubox-free-bin
+clion
+clion-jre
+digilent.waveforms
+openocd-picoprobe
+raspberry-pico-sdk-git
+yay
+zeal-git
