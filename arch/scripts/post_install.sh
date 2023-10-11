@@ -5,7 +5,7 @@
 # install yay
 # Alternatively to yay, aurutils could be used and a local repo created.
 # Then, install the packages with pacman. 
-pacman -S --needed git base-devel
+sudo pacman -S --needed git base-devel
 git clone https://aur.archlinux.org/yay.git
 cd yay 
 makepkg -si
@@ -13,7 +13,8 @@ rm -rf yay
 
 # copy the configuration repo to the new system
 rm -rf ~/.config
-cp -r /mnt/linux_config/.config ~/.config
+cd ~
+git clone https://github.com/dmo9/.config
 
 
 # install all the main packages 

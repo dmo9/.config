@@ -19,8 +19,8 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MB",
-                            "value": 250
+                            "unit": "MiB",
+                            "value": 255
                         },
                         "mount_options": [],
                         "mountpoint": "/boot",
@@ -28,7 +28,7 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MB",
+                            "unit": "MiB",
                             "value": 1
                         },
                         "status": "create",
@@ -41,8 +41,8 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "GB",
-                            "value": 80
+                            "unit": "MiB",
+                            "value": 81920
                         },
                         "mount_options": [],
                         "mountpoint": "/",
@@ -50,8 +50,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MB",
-                            "value": 250
+                            "unit": "MiB",
+                            "value": 256
                         },
                         "status": "create",
                         "type": "primary"
@@ -77,8 +77,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MB",
-                            "value": 80250
+                            "unit": "MiB",
+                            "value": 82176
                         },
                         "status": "create",
                         "type": "primary"
@@ -221,18 +221,7 @@
     "no_pkg_lookups": false,
     "ntp": true,
     "offline": false,
-    "packages": [
-        "firefox",
-        "broadcom-wl",
-        "thunar",
-        "cups",
-        "fish",
-        "neofetch",
-        "git",
-        "code",
-        "kitty",
-        "hyprland"
-    ],
+    "packages": [],
     "parallel downloads": 0,
     "profile_config": {
         "gfx_driver": "All open-source",
