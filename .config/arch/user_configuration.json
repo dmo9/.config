@@ -229,7 +229,9 @@
         "fish",
         "neofetch",
         "git",
-        "code"
+        "code",
+        "kitty",
+        "hyprland"
     ],
     "parallel downloads": 0,
     "profile_config": {
