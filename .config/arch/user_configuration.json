@@ -22,8 +22,8 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
-                            "value": 203
+                            "unit": "MB",
+                            "value": 250
                         },
                         "mount_options": [],
                         "mountpoint": "/boot",
@@ -31,8 +31,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
-                            "value": 3
+                            "unit": "MB",
+                            "value": 1
                         },
                         "status": "create",
                         "type": "primary"
@@ -44,8 +44,8 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "GiB",
-                            "value": 20
+                            "unit": "GB",
+                            "value": 80
                         },
                         "mount_options": [],
                         "mountpoint": "/",
@@ -53,8 +53,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
-                            "value": 206
+                            "unit": "MB",
+                            "value": 250
                         },
                         "status": "create",
                         "type": "primary"
@@ -80,8 +80,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "GiB",
-                            "value": 20
+                            "unit": "MB",
+                            "value": 80250
                         },
                         "status": "create",
                         "type": "primary"
@@ -230,7 +230,9 @@
         "thunar",
         "cups",
         "fish",
-        "neofetch"
+        "neofetch",
+        "git",
+        "code"
     ],
     "parallel downloads": 0,
     "profile_config": {
