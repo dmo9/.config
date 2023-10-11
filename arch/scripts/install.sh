@@ -22,9 +22,9 @@ sleep 3
 # get the latest version of our linux configuration repo which contains all other scripts 
 # & configuration files which should be copied to the new ~/.config folder   
 cd /mnt
-git clone https://github.com/dmo9/linux_config
+git clone https://github.com/dmo9/.config
 
 
 # start the arch install with the latest configuration file 
-cd /mnt/linux_config/.config/arch
+cd /mnt/.config/arch
 archinstall --config user_configuration.json

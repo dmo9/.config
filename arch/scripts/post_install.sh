@@ -17,11 +17,17 @@ cd ~
 git clone https://github.com/dmo9/.config
 
 
+#  get the chitubox binary from their site
+# the aur package needs this
+wget -c 'https://sac.chitubox.com/software/download.do?softwareId=17839&softwareVersionId=v1.9.5&fileName=CHITUBOX_V1.9.5.tar.gz' -o CHITUBOX_V1.9.5.tar.gz
 # install all the main packages 
 # install all the aur packages using yay
-cd ~/.config/arch
+d ~/.config/arch
 pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
+
+# remove the chitubox file because we dont need it anymore 
+rm ~/CHITUBOX_V1.9.5.tar.gz
 
 
 # set fish as the default shell

@@ -3,7 +3,6 @@ clion
 clion-jre
 digilent.waveforms
 openocd-picoprobe
-pantheon-dock-git
 raspberry-pico-sdk-git
 yay
 zeal-git
