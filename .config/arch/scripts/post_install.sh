@@ -11,14 +11,23 @@ cd yay
 makepkg -si
 rm -rf yay
 
+# copy the configuration repo to the new system
+rm -rf ~/.config
+cp -r /mnt/linux_config/.config ~/.config
+
 
 # install all the main packages 
 # install all the aur packages using yay
-cd ../migration
-cd /mnt/linux_config/.config/arch
+cd ~/.config/arch
 pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
 
-# copy the configuration repo to the new system
-cp /mnt/linux_config ~/linux_config
 
+# set fish as the default shell
+chsh -s /usr/bin/fish
+
+# add github user credentials 
+echo -n Enter git email:
+read -s email
+git config --global user.email $email
+git config --global user.name "David O'Brien"
