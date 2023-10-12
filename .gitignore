@@ -14,6 +14,10 @@ kwalletrc
 mimeapps.list
 QtProject.conf
 Thunar
+user-dirs*
+evolution
+.gsd*
+pulse
 Trolltech.conf
 yay
 draw.io

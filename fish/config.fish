@@ -12,10 +12,4 @@ if status is-interactive
 
     #-------- bindings------------
     bind \cH backward-kill-word #ctrl-backspace to delete an entire word
-
-    # add a desktop image at startup
-    ~/.fehbg &
-
-    # autostart a disk mount utility
-    udiskie &
 end
