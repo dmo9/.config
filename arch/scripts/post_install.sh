@@ -5,17 +5,20 @@
 # install yay
 # Alternatively to yay, aurutils could be used and a local repo created.
 # Then, install the packages with pacman. 
+
 echo Installing yay, the aur helper package...
+echo _________________________________________
+cd ~
 sudo pacman -S --needed git base-devel
 git clone https://aur.archlinux.org/yay.git
 cd yay 
 makepkg -si
+cd ~
 rm -rf yay
 
 # copy the configuration repo to the new system
 echo Cloning .config repo from github...
 rm -rf ~/.config
-cd ~
 git clone https://github.com/dmo9/.config
 
 
@@ -25,8 +28,9 @@ git clone https://github.com/dmo9/.config
 # install all the main packages 
 # install all the aur packages using yay
 echo Installing all Arch and AUR pacakges...
+echo _______________________________________
 cd ~/.config/arch
-pacman -S --needed - < pkglist.txt
+sudo pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
 
 # remove the chitubox file because we dont need it anymore 
@@ -36,6 +40,10 @@ yay -S --needed - < pkglist_aur.txt
 # set fish as the default shell
 echo Setting fish as the default shell...
 chsh -s /usr/bin/fish
+
+
+# enable gdm, the gnome desktop manager.
+sudo systemctl enable gdm.service
 
 # add github user credentials 
 echo Setting up git on this machine...

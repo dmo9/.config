@@ -221,19 +221,16 @@
     "no_pkg_lookups": false,
     "ntp": true,
     "offline": false,
-    "packages": [],
+    "packages": [
+    ],
     "parallel downloads": 0,
     "profile_config": {
-        "gfx_driver": "All open-source",
-        "greeter": "sddm",
+        "gfx_driver": null,
+        "greeter": null,
         "profile": {
-            "custom_settings": {
-                "Hyperland": {}
-            },
-            "details": [
-                "Hyperland"
-            ],
-            "main": "Desktop"
+            "custom_settings": {},
+            "details": [],
+            "main": "Minimal"
         }
     },
     "script": "guided",
