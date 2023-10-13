@@ -22,6 +22,16 @@ rm -rf ~/.config
 git clone https://github.com/dmo9/.config
 
 
+# remove extra, unnecessary folders
+rm ~/Documents
+rm ~/Music
+rm ~/Pictures
+rm ~/Public
+rm ~/Templates
+rm ~/Videos
+
+
+
 #  get the chitubox binary from their site
 # the aur package needs this
 # wget -c 'https://sac.chitubox.com/software/download.do?softwareId=17839&softwareVersionId=v1.9.5&fileName=CHITUBOX_V1.9.5.tar.gz' -o CHITUBOX_V1.9.5.tar.gz
@@ -42,7 +52,7 @@ echo Setting fish as the default shell...
 chsh -s /usr/bin/fish
 
 
-# enable gdm, the gnome desktop manager.
+# enable gdm, the gnome desktop manager to run at startup
 sudo systemctl enable gdm.service
 
 # add github user credentials 

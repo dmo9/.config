@@ -19,7 +19,7 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
+                            "unit": "MB",
                             "value": 255
                         },
                         "mount_options": [],
@@ -28,7 +28,7 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
+                            "unit": "MB",
                             "value": 1
                         },
                         "status": "create",
@@ -41,8 +41,8 @@
                         "length": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
-                            "value": 81920
+                            "unit": "GB",
+                            "value": 80
                         },
                         "mount_options": [],
                         "mountpoint": "/",
@@ -50,7 +50,7 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
+                            "unit": "MB",
                             "value": 256
                         },
                         "status": "create",
@@ -77,8 +77,8 @@
                         "start": {
                             "sector_size": null,
                             "total_size": null,
-                            "unit": "MiB",
-                            "value": 82176
+                            "unit": "MB",
+                            "value": 80256
                         },
                         "status": "create",
                         "type": "primary"
