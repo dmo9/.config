@@ -21,16 +21,19 @@ echo Cloning .config repo from github...
 rm -rf ~/.config
 git clone https://github.com/dmo9/.config
 
+# install freeRTOS kernel
+cd /usr/share
+sudo git clone -b smp https://github.com/FreeRTOS/FreeRTOS-Kernel --recurse-submodules
+set -Ux FREERTOS_KERNEL_PATH /usr/share/FreeRTOS-Kernel
+
 
 # remove extra, unnecessary folders
-rm ~/Documents
-rm ~/Music
-rm ~/Pictures
-rm ~/Public
-rm ~/Templates
-rm ~/Videos
-
-
+rm -rf ~/Documents
+rm -rf ~/Music
+rm -rf ~/Pictures
+rm -rf ~/Public
+rm -rf ~/Templates
+rm -rf ~/Videos
 
 #  get the chitubox binary from their site
 # the aur package needs this

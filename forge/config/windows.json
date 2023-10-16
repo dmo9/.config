@@ -90,6 +90,11 @@
             "wmClass": "dconf-editor",
             "wmTitle": "dconf Editor",
             "mode": "float"
+        },
+        {
+            "wmClass": "gnome-control-center",
+            "wmTitle": "Settings",
+            "mode": "float"
         }
     ]
 }
