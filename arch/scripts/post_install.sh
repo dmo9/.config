@@ -58,6 +58,18 @@ chsh -s /usr/bin/fish
 # enable gdm, the gnome desktop manager to run at startup
 sudo systemctl enable gdm.service
 
+# enable telnet, used for connecting to our pico tcp server
+sudo systemctl enable telnet.socket
+
+# enable the cups service for printing
+sudo systemctl enable cups.service 
+
+# enable the network manager
+sudo systemctl enable NetworkManager.service
+
+# create a symlink to udev rules so the pico devices show up with the same /dev name everytime/ i.e /dev/pico
+sudo ln -s ~/.config/udev/99-pico.rules /etc/udev/rules.d/99-pico.rules
+
 # add github user credentials 
 echo Setting up git on this machine...
 echo -n Enter git email:
