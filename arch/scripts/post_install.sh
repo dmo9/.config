@@ -26,6 +26,25 @@ cd /usr/share
 sudo git clone -b smp https://github.com/FreeRTOS/FreeRTOS-Kernel --recurse-submodules
 set -Ux FREERTOS_KERNEL_PATH /usr/share/FreeRTOS-Kernel
 
+# install pico sdk 
+cd /usr/share
+sudo git clone https://github.com/raspberrypi/pico-sdk.git
+cd pico-sdk
+sudo git submodule update --init
+set -Ux FREERTOS_KERNEL_PATH /usr/share/pico-sdk
+
+# install openocd
+cd /usr/share
+sudo git clone https://github.com/raspberrypi/openocd.git --branch rp2040 --depth=1
+cd openocd
+sudo ./bootstrap
+sudo ./configure
+sudo make -j4
+sudo make install  
+
+# install pico examples 
+cd /usr/share
+sudo git clone https://github.com/raspberrypi/pico-examples.git
 
 # remove extra, unnecessary folders
 rm -rf ~/Documents
@@ -72,7 +91,7 @@ sudo ln -s ~/.config/udev/99-pico.rules /etc/udev/rules.d/99-pico.rules
 
 # add github user credentials 
 echo Setting up git on this machine...
-echo -n Enter git email:
-read -s email
+echo Enter git email:
+read email
 git config --global user.email $email
 git config --global user.name "David O'Brien"
