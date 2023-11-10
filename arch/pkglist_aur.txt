@@ -1,8 +1,14 @@
-gnome-shell-extension-forge
-yay
+brother-mfc-l2717dw
 chitubox-free-bin
 clion
+clion-cmake
+clion-gdb
 clion-jre
 digilent.waveforms
+drawio-desktop
+gnome-shell-extension-forge
+hplip-plugin
 openocd-picoprobe
-raspberry-pico-sdk-git
+pico-sdk
+programmer-calculator
+yay
