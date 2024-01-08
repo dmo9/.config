@@ -1,0 +1,370 @@
+{
+	"reportCrashes": true,
+	"appIdentification": {
+		"machineId": "11615777-b82c-4937-be66-f2e7b99e2fa9"
+	},
+	"analyzersPreferences": {
+		"I2C": {
+			"settings": [
+				{
+					"title": "SDA",
+					"tooltip": "Serial Data Line",
+					"disabled": false,
+					"setting": {
+						"type": "Channel",
+						"channelRequired": true,
+						"value": 0
+					}
+				},
+				{
+					"title": "SCL",
+					"tooltip": "Serial Clock Line",
+					"disabled": false,
+					"setting": {
+						"type": "Channel",
+						"channelRequired": true,
+						"value": 1
+					}
+				}
+			]
+		}
+	},
+	"deviceNames": {},
+	"renderSchemaVersion": 11,
+	"reportAnalytics": true,
+	"installedExtensions": [
+		{
+			"path": "/home/dob/.config/Logic/Marketplace/1000/extension.json",
+			"id": 1000,
+			"isDisabled": false,
+			"isFromWeb": true,
+			"gitSha": "ede86934b8e0ce14d38778946228116346960ad4",
+			"marketplaceUrl": "https://github.com/saleae/saleae-measurements-v2"
+		},
+		{
+			"path": "/home/dob/.config/Logic/Marketplace/1/extension.json",
+			"id": 1,
+			"isDisabled": false,
+			"isFromWeb": true,
+			"gitSha": "f5ac6d6e6c3edf66d0884f57a372cfd5c3a80e23",
+			"marketplaceUrl": "https://github.com/saleae/clock-statistics-measurement"
+		},
+		{
+			"path": "/home/dob/.config/Logic/Marketplace/2/extension.json",
+			"id": 2,
+			"isDisabled": false,
+			"isFromWeb": true,
+			"gitSha": "5f6057be2761978b3ac722a5dbf04d1eeed9181f",
+			"marketplaceUrl": "https://github.com/saleae/voltage-statistics-measurement"
+		}
+	],
+	"automaticallyStartCaptureMSO": true,
+	"shouldRenameTabToSavedCapture": false,
+	"version": "2.4.12",
+	"onboardings": {
+		"main": true
+	},
+	"lastPreset": {
+		"presetName": "Recent",
+		"deviceType": "Logic16",
+		"deviceSettings": {
+			"enabledChannels": [
+				{
+					"type": "Digital",
+					"index": 0
+				},
+				{
+					"type": "Digital",
+					"index": 1
+				}
+			],
+			"sampleRate": {
+				"digital": 16000000
+			},
+			"digitalThreshold": {
+				"description": "1.8V to 3.6V"
+			}
+		},
+		"captureSettings": {
+			"bufferSizeMb": 3072,
+			"captureMode": "Circular",
+			"stopAfterSeconds": 100,
+			"trimAfterCapture": false,
+			"trimTimeSeconds": 5,
+			"digitalTriggerSettings": {
+				"type": {
+					"mode": "Edge",
+					"name": "Rising",
+					"pattern": "Rising"
+				},
+				"timeAfterTriggerToStop": 1,
+				"linkedChannels": [],
+				"duration": {
+					"min": 0.001,
+					"max": 0.01
+				}
+			},
+			"glitchFilter": {
+				"enabled": false,
+				"channels": []
+			}
+		},
+		"analyzers": [],
+		"renderViewState": {
+			"leftEdgeTimeSec": 0,
+			"timeSecPerPixel": 0.001
+		},
+		"matchTracesColor": true,
+		"highLevelAnalyzers": [],
+		"rowsSettings": [
+			{
+				"id": "45358ce0-243c-4bca-a224-585844f030a2",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 0",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 0
+				}
+			},
+			{
+				"id": "471d69d9-317a-4f27-87be-81681afebff4",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 1",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 1
+				}
+			},
+			{
+				"id": "6756d39f-33d1-4644-b6af-90deeeaaf681",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 2",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 2
+				}
+			},
+			{
+				"id": "b3b05b5d-469d-4ead-87b0-d60e4a268111",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 3",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 3
+				}
+			},
+			{
+				"id": "a2ee9c93-406c-460c-8db5-238f19ea3bd4",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 4",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 4
+				}
+			},
+			{
+				"id": "d32a47f5-a284-498f-93c9-ed82c2af8ce0",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 5",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 5
+				}
+			},
+			{
+				"id": "e842dd09-6ecf-48a6-8575-6f227da79cab",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 6",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 6
+				}
+			},
+			{
+				"id": "fbe79960-9712-4250-8e1c-29a179369e88",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 7",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 7
+				}
+			},
+			{
+				"id": "5e410877-da37-4545-bd2d-b467a3d2b327",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 8",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 8
+				}
+			},
+			{
+				"id": "4789ad0b-8372-43e1-8c09-d2ab5cdff1dc",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 9",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 9
+				}
+			},
+			{
+				"id": "e7d3eb0e-cc04-4bca-bcf0-fd6f58eec7f7",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 10",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 10
+				}
+			},
+			{
+				"id": "994b3299-2913-4eb2-9154-2ec15960a7d4",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 11",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 11
+				}
+			},
+			{
+				"id": "c237992c-383b-4405-b2b7-ba04f6b3e72b",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 12",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 12
+				}
+			},
+			{
+				"id": "8a8b4f43-4182-4817-ac67-75c4506e6660",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 13",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 13
+				}
+			},
+			{
+				"id": "1607f05f-adaf-49dc-872d-79bcc9a6f92a",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 14",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 14
+				}
+			},
+			{
+				"id": "c82ffafb-568f-4712-8dc4-4ca3a6d1113b",
+				"height": 100,
+				"isMarkedHidden": false,
+				"type": "channel",
+				"name": "Channel 15",
+				"channel": {
+					"category": "legacy",
+					"type": "Digital",
+					"deviceChannel": 15
+				}
+			}
+		],
+		"sidebarWidth": 320,
+		"channelLabelWidth": 105,
+		"analyzerTrigger": {
+			"settings": {
+				"enabled": false,
+				"searchQuery": "",
+				"holdoffSeconds": 0.2
+			}
+		},
+		"hints": {
+			"mainScrollBar": true
+		},
+		"dataTable": {
+			"columns": {
+				"analyzerIdentifier": {
+					"isActive": true,
+					"width": 18,
+					"isDefault": true,
+					"baseKey": "analyzerIdentifier",
+					"excludeFromSearch": true
+				},
+				"frameType": {
+					"isActive": true,
+					"width": 75,
+					"isDefault": true,
+					"baseKey": "frameType",
+					"excludeFromSearch": false
+				},
+				"start": {
+					"isActive": true,
+					"width": 110,
+					"isDefault": true,
+					"baseKey": "start",
+					"excludeFromSearch": true
+				},
+				"duration": {
+					"isActive": true,
+					"width": 80,
+					"isDefault": true,
+					"baseKey": "duration",
+					"excludeFromSearch": true
+				}
+			}
+		},
+		"timeManager": {
+			"t0": {
+				"type": "startOfCapture"
+			}
+		},
+		"timeOptions": {
+			"showLocalTime": true,
+			"useIsoFormat": false,
+			"autoSelectDigitalTriggerMode": true,
+			"autoSelectAnalyzerTriggerMode": true
+		}
+	},
+	"presets": []
+}

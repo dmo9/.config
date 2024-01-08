@@ -1,0 +1,14 @@
+[2023-11-21 11:38:24.910] [main] [critical] [saleae_log.cpp:256] Global logging level is set to: debug
+[2023-11-21 11:38:24.910] [main] [info] [saleae_log.cpp:258] Logfile path set to: /home/dob/.config/Logic/logs/graphio-2023-11-21--11-38-23.log
+[2023-11-21 11:38:26.396] [main] [info] [graph_server.cpp:822] DeleteGraphData SeesionId: -2
+[2023-11-21 11:38:26.396] [main] [info] [graph_server.cpp:846] DeleteGraph( -2 ) called
+[2023-11-21 11:38:35.144] [main] [info] [logic_device_node.cpp:119] acquire request for device instance id DeviceInstanceId(1000)
+[2023-11-21 11:38:35.164] [main] [info] [logic_device_node.cpp:408] set led
+[2023-11-21 11:38:35.212] [main] [info] [logic_device_node.cpp:288] enable channels
+[2023-11-21 11:38:35.214] [main] [info] [logic_device_node.cpp:259] set sample rate: 10000000, 1250000
+[2023-11-21 11:39:39.232] [main] [info] [logic_device_node.cpp:453] start capture
+[2023-11-21 11:39:39.276] [main] [info] [analyzer_node.cpp:2127] named pipe connected
+[2023-11-21 11:39:41.717] [main] [info] [logic_device_node.cpp:538] stop capture
+[2023-11-21 11:39:41.945] [main] [info] [analyzer_node.cpp:2092] all frames written to database
+[2023-11-21 11:39:54.379] [main] [info] [analyzer_node.cpp:970] joining database thread
+[2023-11-21 11:39:54.379] [main] [info] [analyzer_node.cpp:973] database thread joined

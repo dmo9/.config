@@ -1,7 +1,7 @@
 <monitors version="2">
   <configuration>
     <logicalmonitor>
-      <x>1080</x>
+      <x>1920</x>
       <y>0</y>
       <scale>1</scale>
       <primary>yes</primary>
@@ -23,10 +23,6 @@
       <x>0</x>
       <y>0</y>
       <scale>1</scale>
-      <transform>
-        <rotation>right</rotation>
-        <flipped>no</flipped>
-      </transform>
       <monitor>
         <monitorspec>
           <connector>DP-4</connector>

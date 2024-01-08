@@ -2,7 +2,7 @@
 if status is-interactive
 
     # ------ abbreviations--------- 
-    abbr -a -- pi 'sudo pacman -S'
+    abbr -a -- ps 'sudo pacman -S'
     abbr -a -- pu 'sudo pacman -Syu'
     abbr -a -- pr 'sudo pacman -R'
     abbr -a -- cl 'clear'

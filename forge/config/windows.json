@@ -95,6 +95,11 @@
             "wmClass": "gnome-control-center",
             "wmTitle": "Settings",
             "mode": "float"
+        },
+        {
+            "wmClass": "firefox",
+            "wmTitle": "Photopea | Online Photo Editor — Mozilla Firefox",
+            "mode": "float"
         }
     ]
 }
