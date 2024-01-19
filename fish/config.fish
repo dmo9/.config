@@ -8,8 +8,11 @@ if status is-interactive
     abbr -a -- cl 'clear'
     abbr -a -- sl 'systemctl suspend'
 
-    
-
     #-------- bindings------------
     bind \cH backward-kill-word #ctrl-backspace to delete an entire word
+
+    #--------   envs  ------------#
+    set -gx PICO_SDK_PATH /opt/pico-sdk
+    set -gx FREERTOS_KERNEL_PATH /opt/FreeRTOS-Kernel
+
 end

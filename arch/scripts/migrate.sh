@@ -7,8 +7,8 @@
 # for more details 
 
 # create the lists
-pacman -Qqen > ~/.config/arch/pkglist.txt
-pacman -Qqem > ~/.config/arch/pkglist_aur.txt
+sudo pacman -Qqen > ~/.config/arch/pkglist.txt
+sudo pacman -Qqem > ~/.config/arch/pkglist_aur.txt
 
 # push everything to git 
 cd ~/.config

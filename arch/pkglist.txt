@@ -2,6 +2,7 @@ base
 base-devel
 broadcom-wl
 code
+cronie
 cups
 dconf-editor
 dosfstools
@@ -32,8 +33,8 @@ gvfs-nfs
 gvfs-smb
 inetutils
 intel-ucode
-iwd
 kitty
+libgnome-keyring
 linux
 linux-firmware
 loupe
@@ -44,13 +45,13 @@ networkmanager
 ntfs-3g
 nvidia
 openssh
+sudo
 tecla
 tracker3-miners
 usbutils
 vim
 wget
 wireless_tools
-wpa_supplicant
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 xdg-utils

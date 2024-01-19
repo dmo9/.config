@@ -1,14 +1,11 @@
 brother-mfc-l2717dw
-chitubox-free-bin
 clion
 clion-cmake
 clion-gdb
 clion-jre
-digilent.waveforms
+colorpicker
 drawio-desktop
 gnome-shell-extension-forge
 hplip-plugin
-openocd-picoprobe
-pico-sdk
 programmer-calculator
 yay
