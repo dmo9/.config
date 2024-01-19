@@ -5,6 +5,8 @@ SETUVAR --export --path FREERTOS_KERNEL_PATH:/usr/share/FreeRTOS\x2dKernel
 SETUVAR --export --path LD_LIBRARY_PATH:/usr/local/share/lib
 SETUVAR --export LD_LIBRARY_PATH_OG:/usr/local/share/lib
 SETUVAR --export --path PICO_SDK_PATH:/opt/pico\x2dsdk
+SETUVAR --export SSH_AGENT_PID:34033
+SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dXXXXXXpLsd7t/agent\x2e34032
 SETUVAR --export WIFI_PWD:\x1d
 SETUVAR --export WIFI_SSID:\x1d
 SETUVAR --export XDG_RUNTIME_DIR:/tmp/runtime\x2droot

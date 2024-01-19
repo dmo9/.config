@@ -15,4 +15,6 @@ if status is-interactive
     set -gx PICO_SDK_PATH /opt/pico-sdk
     set -gx FREERTOS_KERNEL_PATH /opt/FreeRTOS-Kernel
 
+    # SSH shite
+    eval $(keychain --eval --quiet --ignore-missing id_ed25519 id_rsa)
 end
